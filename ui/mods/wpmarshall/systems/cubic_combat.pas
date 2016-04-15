@@ -2,9 +2,9 @@
     "name": "Cubic Combat",
 	"creator": "WPMarshall",
 	"version": "1",
-	"date": "2016/04/14",
-	"description": "Credit to GUest_01 - I have turned this planet into a small FFA. There are still some pathing and targeting bugs however.",	"players": [
-        6,],	
+		"date": "2016/04/14",
+	"description": "Credit to Guest_01 - I have turned this planet into a small FFA. There are still some pathing and targeting bugs however.",	"players": [
+        2,	6],	
     
     "planets": [
         {

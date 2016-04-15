@@ -1,6 +1,5 @@
 {
-    "name": "(10P FFA) Gladiator's Forum Redux",,
-	"creator": "WPMarshall",
+    "name": "(10P FFA) Gladiator's Forum Redux",	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",
 	"description": "IMPORTANT! This map may break if you have spectators with 10 players! The map will give you a frantic close quarters FFA with some commander fisticuffs. Fun with mods!",	"players": [

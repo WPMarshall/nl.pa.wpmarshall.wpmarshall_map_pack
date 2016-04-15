@@ -2,9 +2,9 @@
     "name": "Hollow Lanes",
 	"creator": "WPMarshall",
 	"version": "1",
-	"date": "2016/04/14",
+		"date": "2016/04/14",
 	"description": "Credit to Guest_01 - I have since edited the terrain, metal and spawns to support FFA and TEAM games! Who will break first?",	"players": [
-        6,],	
+        2,	6],	
     
       "planets": [
         {

@@ -3,7 +3,7 @@
 	"creator": "WPMarshall",
 	"version": "2",
 	"date": "2016/04/14",
-	"description": "Suitable for shared and unshared team games, this version of Marshall's Lament iterated on the original with the advent of the Anihilaser providing a further incentive to contest the central point as the laser provides a wonderful way to break a defended planet wide open!",	"players": [
+	"description": "Suitable for shared and unshared team games, this version of Marshall's Lament iterated on the original with the advent of the Annihilaser providing a further incentive to contest the central point as the laser provides a wonderful way to break a defended planet wide open!",	"players": [
         6,
         10    ],	
     
