@@ -1,9 +1,9 @@
 {
-    "name": "(2v2) Boading",
+    "name": "Boading",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",
-	"description": "Also suitable for 1v1s and larger team games, Boading provides large and wealthy expansions between spawns. Be ready to be constantly replenishing your fabricators and expansions.",	"players": [
+	"description": "(1v1 - 2v2) Also suitable for 1v1s and larger team games, Boading provides large and wealthy expansions between spawns. Be ready to be constantly replenishing your fabricators and expansions.",	"players": [
         2,
         10    ],	"planets": [
         {

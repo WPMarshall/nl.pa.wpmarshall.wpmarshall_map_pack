@@ -1,9 +1,9 @@
 {
-    "name": "(1v1) Oblivarum",
+    "name": "Oblivarum",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",
-	"description": "Here you will find limited easy expansion, yet being victorious while contesting central expansions will reward you greatly. Don't forget that unusual expansion sites can pay handsom dividends.",	"players": [
+	"description": "(1v1 - 2v2) Here you will find limited easy expansion, yet being victorious while contesting central expansions will reward you greatly. Don't forget that unusual expansion sites can pay handsom dividends.",	"players": [
         2,
         4    ],	
     "planets": [

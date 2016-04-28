@@ -1,9 +1,9 @@
 {
-    "name": "(1v1) Moore",
+    "name": "Moore",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",
-	"description": "This larger tropical planet will have you competing for air, naval and ground dominance in order to secure your expansions. Don't neglect the trees!",	"players": [
+	"description": "(1v1) This larger tropical planet will have you competing for air, naval and ground dominance in order to secure your expansions. Don't neglect the trees!",	"players": [
         2,
         4    ],	
     "planets": [

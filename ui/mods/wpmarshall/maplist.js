@@ -13,5 +13,10 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/hollow_lanes.pas",	
 	"coui://ui/mods/wpmarshall/systems/cubic_combat.pas",	
 	"coui://ui/mods/wpmarshall/systems/fields_of isis.pas",	
+	"coui://ui/mods/wpmarshall/systems/tandem.pas",	
+	"coui://ui/mods/wpmarshall/systems/cauldron.pas",	
+	"coui://ui/mods/wpmarshall/systems/cratered.pas",	
+	"coui://ui/mods/wpmarshall/systems/diskus_(ffa).pas",	
+	"coui://ui/mods/wpmarshall/systems/diskus_(teams).pas",	
 		
 ]);
