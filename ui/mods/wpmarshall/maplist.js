@@ -19,5 +19,5 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/diskus_(ffa).pas",	
 	"coui://ui/mods/wpmarshall/systems/diskus_(teams).pas",	
 	"coui://ui/mods/wpmarshall/systems/shipyards.pas",	
-		
+	"coui://ui/mods/wpmarshall/systems/quandary.pas",		
 ]);
