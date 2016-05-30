@@ -6,7 +6,7 @@
 	"description": "(1v1,2v2,3v3) Kinomo is a large map with many twists and turns between you and your enemy. Be sure to expand fast, raid your opponent and contest the middle ground! Use those chokepoints!",
 	"players": [
 		2,
-		6,
+		6
 	],	
     "planets": [
         {
