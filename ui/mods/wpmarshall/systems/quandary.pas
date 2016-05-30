@@ -4,7 +4,7 @@
 	"version": "1",
 	"date": "2016/05/17",
 	"description": "(3-Army FFA) Quandary is a map where players must fight each other towards resource expansions at the opposite pole while fighting over chokepoints to ensure base defence. Be careful of sneeky bases on the south pole however as a savvy player may use this for frustrating harassment! ",
-	"players": [	3,	6    ],
+	"players": [        3,        6],
     "planets": [
         {
             "name": "Quandry",
