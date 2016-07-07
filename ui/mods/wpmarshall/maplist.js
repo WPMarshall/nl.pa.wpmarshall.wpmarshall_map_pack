@@ -13,6 +13,7 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/tandem.pas",	
 	"coui://ui/mods/wpmarshall/systems/quandary.pas",	
 	"coui://ui/mods/wpmarshall/systems/doomball.pas",	
+	"coui://ui/mods/wpmarshall/systems/realm_battlegrounds.pas",	
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (classic).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (redux).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (titans).pas",
@@ -26,5 +27,6 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/cubic_combat.pas",	
 	"coui://ui/mods/wpmarshall/systems/finn's_resurgence.pas",	
 	"coui://ui/mods/wpmarshall/systems/fields_of isis.pas",	
+	"coui://ui/mods/wpmarshall/systems/world_of tomorrow 2.1.0.pas",	
 	
 ]);
