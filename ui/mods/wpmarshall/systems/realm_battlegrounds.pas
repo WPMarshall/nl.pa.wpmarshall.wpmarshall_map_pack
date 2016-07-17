@@ -1,8 +1,8 @@
 {
     "name": "Realm Battlegrounds",
     "creator": "WPMarshall",
-    "version": "1",
-    "date": "2016/07/07",
+    "version": "1.2",
+    "date": "2016/07/17",
     "description": "(FFA) The location of the Realm Civil War, The Battlegrounds give many options for players to destroy all opposition. Given the resource distribution, conflict will be unrelenting!",
     "players": [
         8,
@@ -16691,8 +16691,8 @@
             "starting_planet": false,
             "respawn": true,
             "start_destroyed": true,
-            "min_spawn_delay": 1080,
-            "max_spawn_delay": 1200,
+            "min_spawn_delay": 720,
+            "max_spawn_delay": 800,
             "planet": {
                 "seed": 8239,
                 "radius": 250,
@@ -16724,8 +16724,8 @@
             "starting_planet": false,
             "respawn": true,
             "start_destroyed": true,
-            "min_spawn_delay": 1080,
-            "max_spawn_delay": 1200,
+            "min_spawn_delay": 840,
+            "max_spawn_delay": 960,
             "planet": {
                 "seed": 8239,
                 "radius": 250,
@@ -16757,8 +16757,8 @@
             "starting_planet": false,
             "respawn": true,
             "start_destroyed": true,
-            "min_spawn_delay": 1080,
-            "max_spawn_delay": 1200,
+            "min_spawn_delay": 720,
+            "max_spawn_delay": 800,
             "planet": {
                 "seed": 8239,
                 "radius": 250,
