@@ -1,8 +1,8 @@
 {
     "name": "Pressure Cooker",
-    "creator": "WPMarshall",
-    "version": "1",
-    "date": "2016/07/17",
+	"creator": "WPMarshall",
+    "version": "1.1",
+    "date": "2016/09/17",
     "description": "(1v1) Feel the pressure of an open map, wide spread of metal and many avenues of approach. Do not get tunnel-visioned otherwise your opponent will claim all the expansion!",
     "players": [
         2,
@@ -44,14 +44,15 @@
             "source": {
                 "brushes": [
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             0.5583699345588684,
                             0.5639563202857971,
@@ -66,19 +67,18 @@
                             0.0019840914756059647,
                             0.8859798908233643
                         ],
-                        "op": "BO_Add",
-                        "rotation": 0,
                         "scale": [
                             1.1299997568130493,
                             1.1299997568130493,
                             1.1299997568130493
                         ],
-                        "height": 504.5921630859375,
+                        "rotation": 0,
                         "position": [
                             375.57574462890625,
                             -370.5340576171875,
                             0.9263591766357422
                         ],
+                        "height": 504.5921630859375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -93,14 +93,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             1.3032474517822266,
                             0.9901089668273926,
@@ -115,19 +116,18 @@
                             0.8299896121025085,
                             231.28851318359375
                         ],
-                        "op": "BO_Add",
-                        "rotation": -0.4699998199939728,
                         "scale": [
                             1.7199993133544922,
                             1.7199993133544922,
                             1.7199993133544922
                         ],
-                        "height": 479.302490234375,
+                        "rotation": -0.4699998199939728,
                         "position": [
                             -160.57728576660156,
                             428.3591003417969,
                             252.03829956054688
                         ],
+                        "height": 479.302490234375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -142,14 +142,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             1.3032474517822266,
                             0.9901089668273926,
@@ -164,19 +165,18 @@
                             -0.8299896121025085,
                             -231.2885284423828
                         ],
-                        "op": "BO_Add",
-                        "rotation": -0.4699998199939728,
                         "scale": [
                             1.7199993133544922,
                             1.7199993133544922,
                             1.7199993133544922
                         ],
-                        "height": 479.302490234375,
+                        "rotation": -0.4699998199939728,
                         "position": [
                             -160.57728576660156,
                             428.3591003417969,
                             252.03829956054688
                         ],
+                        "height": 479.302490234375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -191,14 +191,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             1.207538366317749,
                             -0.04234305024147034,
@@ -213,19 +214,18 @@
                             0.27133476734161377,
                             103.18848419189453
                         ],
-                        "op": "BO_Add",
-                        "rotation": -0.3099999725818634,
                         "scale": [
                             1.3299996852874756,
                             1.3299996852874756,
                             1.3299996852874756
                         ],
-                        "height": 505.79827880859375,
+                        "rotation": -0.3099999725818634,
                         "position": [
                             -218.07229614257812,
                             -461.93695068359375,
                             106.45263671875
                         ],
+                        "height": 505.79827880859375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -240,14 +240,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             1.207538366317749,
                             -0.04234305024147034,
@@ -262,19 +263,18 @@
                             -0.27133476734161377,
                             -103.1884765625
                         ],
-                        "op": "BO_Add",
-                        "rotation": -0.3099999725818634,
                         "scale": [
                             1.3299996852874756,
                             1.3299996852874756,
                             1.3299996852874756
                         ],
-                        "height": 505.79827880859375,
+                        "rotation": -0.3099999725818634,
                         "position": [
                             -218.07229614257812,
                             -461.93695068359375,
                             106.45263671875
                         ],
+                        "height": 505.79827880859375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -289,14 +289,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             0.93841552734375,
                             0.10769113898277283,
@@ -311,19 +312,18 @@
                             0.580533504486084,
                             394.1572570800781
                         ],
-                        "op": "BO_Add",
-                        "rotation": 0,
                         "scale": [
                             1.1599998474121094,
                             1.1599998474121094,
                             0.7600002288818359
                         ],
-                        "height": 516.0074462890625,
+                        "rotation": 0,
                         "position": [
                             304.74603271484375,
                             -148.108154296875,
                             401.031982421875
                         ],
+                        "height": 516.0074462890625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -338,14 +338,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             0.93841552734375,
                             0.10769113898277283,
@@ -360,19 +361,18 @@
                             -0.580533504486084,
                             -394.1572570800781
                         ],
-                        "op": "BO_Add",
-                        "rotation": 0,
                         "scale": [
                             1.1599998474121094,
                             1.1599998474121094,
                             0.7600002288818359
                         ],
-                        "height": 516.0074462890625,
+                        "rotation": 0,
                         "position": [
                             304.74603271484375,
                             -148.108154296875,
                             401.031982421875
                         ],
+                        "height": 516.0074462890625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -387,14 +387,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             2.5326988697052,
                             0.24553585052490234,
@@ -409,19 +410,18 @@
                             -0.025793801993131638,
                             -4.6600470542907715
                         ],
-                        "op": "BO_Add",
-                        "rotation": 0.12999996542930603,
                         "scale": [
                             2.6099984645843506,
                             2.6099984645843506,
                             2.6099984645843506
                         ],
-                        "height": 471.536376953125,
+                        "rotation": 0.12999996542930603,
                         "position": [
                             -116.0416259765625,
                             508.436767578125,
                             -5.1543121337890625
                         ],
+                        "height": 471.536376953125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -436,14 +436,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Add",
                         "transform": [
                             -0.12208370864391327,
                             -0.7970735430717468,
@@ -458,19 +459,18 @@
                             -0.052614014595746994,
                             -11.551834106445312
                         ],
-                        "op": "BO_Add",
-                        "rotation": 0.4499998390674591,
                         "scale": [
                             2.289998769760132,
                             2.289998769760132,
                             2.289998769760132
                         ],
-                        "height": 502.787841796875,
+                        "rotation": 0.4499998390674591,
                         "position": [
                             510.8315124511719,
                             191.77670288085938,
                             -12.539800643920898
                         ],
+                        "height": 502.787841796875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -485,14 +485,15 @@
                         "no_features": false
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.2123410999774933,
                             -1.0740575790405273,
@@ -507,19 +508,18 @@
                             0.7306879162788391,
                             362.844482421875
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 1.8399988412857056,
                         "scale": [
                             1.109999656677246,
                             1.109999656677246,
                             1.109999656677246
                         ],
-                        "height": 551.2028198242188,
+                        "rotation": 1.8399988412857056,
                         "position": [
                             -85.33354187011719,
                             380.642333984375,
                             341.121337890625
                         ],
+                        "height": 551.2028198242188,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -534,14 +534,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.2123410999774933,
                             -1.0740575790405273,
@@ -556,19 +557,18 @@
                             -0.7306879162788391,
                             -362.8426513671875
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 1.8399988412857056,
                         "scale": [
                             1.109999656677246,
                             1.109999656677246,
                             1.109999656677246
                         ],
-                        "height": 551.2000122070312,
+                        "rotation": 1.8399988412857056,
                         "position": [
                             -85.33354187011719,
                             380.642333984375,
                             341.121337890625
                         ],
+                        "height": 551.2000122070312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -583,14 +583,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.6051707863807678,
                             -0.40409499406814575,
@@ -605,19 +606,18 @@
                             0.6793116927146912,
                             345.2782287597656
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.4200000464916229,
                         "scale": [
                             1.109999656677246,
                             1.109999656677246,
                             1.109999656677246
                         ],
-                        "height": 564.1868286132812,
+                        "rotation": 0.4200000464916229,
                         "position": [
                             401.871826171875,
                             125.079833984375,
                             325.6944580078125
                         ],
+                        "height": 564.1868286132812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -632,14 +632,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.6051707863807678,
                             -0.40409499406814575,
@@ -654,19 +655,18 @@
                             -0.6793116927146912,
                             -345.2782287597656
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.4200000464916229,
                         "scale": [
                             1.109999656677246,
                             1.109999656677246,
                             1.109999656677246
                         ],
-                        "height": 564.1868286132812,
+                        "rotation": 0.4200000464916229,
                         "position": [
                             401.871826171875,
                             125.079833984375,
                             325.6944580078125
                         ],
+                        "height": 564.1868286132812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -681,14 +681,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.2372710108757019,
                             -0.0060285404324531555,
@@ -703,19 +704,18 @@
                             -0.005858926568180323,
                             -9.737581253051758
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.7599998116493225,
                         "scale": [
                             0.3300001323223114,
                             0.3300001323223114,
                             0.3300001323223114
                         ],
-                        "height": 548.4627685546875,
+                        "rotation": -0.7599998116493225,
                         "position": [
                             375.4957275390625,
                             388.6011962890625,
                             -9.595654487609863
                         ],
+                        "height": 548.4627685546875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -730,14 +730,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.5465267300605774,
                             0.5583205223083496,
@@ -752,19 +753,18 @@
                             0.4553179144859314,
                             289.64495849609375
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -1.019999623298645,
                         "scale": [
                             0.8599997758865356,
                             0.8599997758865356,
                             0.8599997758865356
                         ],
-                        "height": 547.0784301757812,
+                        "rotation": -1.019999623298645,
                         "position": [
                             220.70303344726562,
                             389.8575439453125,
                             279.5856018066406
                         ],
+                        "height": 547.0784301757812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -779,14 +779,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.5465267300605774,
                             0.5583205223083496,
@@ -801,19 +802,18 @@
                             -0.4553179144859314,
                             -289.64495849609375
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -1.019999623298645,
                         "scale": [
                             0.8599997758865356,
                             0.8599997758865356,
                             0.8599997758865356
                         ],
-                        "height": 547.0784301757812,
+                        "rotation": -1.019999623298645,
                         "position": [
                             220.70303344726562,
                             389.8575439453125,
                             279.5856018066406
                         ],
+                        "height": 547.0784301757812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -828,14 +828,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.2980135977268219,
                             0.016704820096492767,
@@ -850,19 +851,18 @@
                             -0.0010397998848930001,
                             -1.7930716276168823
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -3.359997510910034,
                         "scale": [
                             0.31000012159347534,
                             0.31000012159347534,
                             0.31000012159347534
                         ],
-                        "height": 534.5763549804688,
+                        "rotation": -3.359997510910034,
                         "position": [
                             142.20843505859375,
                             507.0072021484375,
                             -1.766265869140625
                         ],
+                        "height": 534.5763549804688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -877,14 +877,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.45851391553878784,
                             -0.2837965786457062,
@@ -899,19 +900,18 @@
                             -0.5388711094856262,
                             -332.3953552246094
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.4800000786781311,
                         "scale": [
                             0.8899998664855957,
                             0.8899998664855957,
                             0.8899998664855957
                         ],
-                        "height": 548.984375,
+                        "rotation": -0.4800000786781311,
                         "position": [
                             -416.8575439453125,
                             -11.676944732666016,
                             -317.2586669921875
                         ],
+                        "height": 548.984375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -926,14 +926,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.45851391553878784,
                             -0.2837965786457062,
@@ -948,19 +949,18 @@
                             0.5388711094856262,
                             332.3953552246094
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.4800000786781311,
                         "scale": [
                             0.8899998664855957,
                             0.8899998664855957,
                             0.8899998664855957
                         ],
-                        "height": 548.984375,
+                        "rotation": -0.4800000786781311,
                         "position": [
                             -416.8575439453125,
                             -11.676944732666016,
                             -317.2586669921875
                         ],
+                        "height": 548.984375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -975,14 +975,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -1.1764920949935913,
                             0.026180341839790344,
@@ -997,19 +998,18 @@
                             -0.9051899313926697,
                             -424.72637939453125
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 2.9599978923797607,
                         "scale": [
                             1.1799994707107544,
                             1.1799994707107544,
                             1.1799994707107544
                         ],
-                        "height": 553.67041015625,
+                        "rotation": 2.9599978923797607,
                         "position": [
                             -39.0050048828125,
                             -336.8996276855469,
                             -405.548583984375
                         ],
+                        "height": 553.67041015625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1024,14 +1024,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -1.1764920949935913,
                             0.026180341839790344,
@@ -1046,19 +1047,18 @@
                             0.9051899313926697,
                             424.72637939453125
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 2.9599978923797607,
                         "scale": [
                             1.1799994707107544,
                             1.1799994707107544,
                             1.1799994707107544
                         ],
-                        "height": 553.67041015625,
+                        "rotation": 2.9599978923797607,
                         "position": [
                             -39.0050048828125,
                             -336.8996276855469,
                             -405.548583984375
                         ],
+                        "height": 553.67041015625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1073,14 +1073,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.3548738360404968,
                             -0.20627449452877045,
@@ -1095,19 +1096,18 @@
                             0.30444246530532837,
                             194.9728546142578
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.9799996614456177,
                         "scale": [
                             0.869999885559082,
                             0.869999885559082,
                             0.869999885559082
                         ],
-                        "height": 557.1704711914062,
+                        "rotation": 0.9799996614456177,
                         "position": [
                             471.86187744140625,
                             -169.35806274414062,
                             187.27427673339844
                         ],
+                        "height": 557.1704711914062,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1122,14 +1122,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.3548738360404968,
                             -0.20627449452877045,
@@ -1144,19 +1145,18 @@
                             -0.30444246530532837,
                             -194.9728546142578
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.9799996614456177,
                         "scale": [
                             0.869999885559082,
                             0.869999885559082,
                             0.869999885559082
                         ],
-                        "height": 557.1704711914062,
+                        "rotation": 0.9799996614456177,
                         "position": [
                             471.86187744140625,
                             -169.35806274414062,
                             187.27427673339844
                         ],
+                        "height": 557.1704711914062,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1171,14 +1171,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.13774250447750092,
                             -0.0726863294839859,
@@ -1193,19 +1194,18 @@
                             0.07351367175579071,
                             177.33470153808594
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0,
                         "scale": [
                             0.2199999988079071,
                             0.2199999988079071,
                             0.2199999988079071
                         ],
-                        "height": 530.6990356445312,
+                        "rotation": 0,
                         "position": [
                             -371.99896240234375,
                             -328.714599609375,
                             175.9980926513672
                         ],
+                        "height": 530.6990356445312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1220,14 +1220,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.13774250447750092,
                             -0.0726863294839859,
@@ -1242,19 +1243,18 @@
                             -0.07351367175579071,
                             -177.33470153808594
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0,
                         "scale": [
                             0.2199999988079071,
                             0.2199999988079071,
                             0.2199999988079071
                         ],
-                        "height": 530.6990356445312,
+                        "rotation": 0,
                         "position": [
                             -371.99896240234375,
                             -328.714599609375,
                             175.9980926513672
                         ],
+                        "height": 530.6990356445312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1269,14 +1269,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.022997617721557617,
                             0.32220780849456787,
@@ -1291,19 +1292,18 @@
                             0.027871008962392807,
                             40.95042419433594
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -1.9199987649917603,
                         "scale": [
                             0.36000004410743713,
                             0.36000004410743713,
                             0.36000004410743713
                         ],
-                        "height": 528.9422607421875,
+                        "rotation": -1.9199987649917603,
                         "position": [
                             -229.95660400390625,
                             -465.697509765625,
                             40.33106231689453
                         ],
+                        "height": 528.9422607421875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1318,14 +1318,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.022997617721557617,
                             0.32220780849456787,
@@ -1340,19 +1341,18 @@
                             -0.027871008962392807,
                             -40.95042419433594
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -1.9199987649917603,
                         "scale": [
                             0.36000004410743713,
                             0.36000004410743713,
                             0.36000004410743713
                         ],
-                        "height": 528.9422607421875,
+                        "rotation": -1.9199987649917603,
                         "position": [
                             -229.95660400390625,
                             -465.697509765625,
                             40.33106231689453
                         ],
+                        "height": 528.9422607421875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1367,14 +1367,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.5854378938674927,
                             -0.032847315073013306,
@@ -1389,19 +1390,18 @@
                             0.1525697112083435,
                             136.96719360351562
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.2199999988079071,
                         "scale": [
                             0.6000000238418579,
                             0.6000000238418579,
                             0.6000000238418579
                         ],
-                        "height": 538.64111328125,
+                        "rotation": 0.2199999988079071,
                         "position": [
                             111.23686218261719,
                             -495.05267333984375,
                             133.40716552734375
                         ],
+                        "height": 538.64111328125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1416,14 +1416,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.5854378938674927,
                             -0.032847315073013306,
@@ -1438,19 +1439,18 @@
                             -0.1525697112083435,
                             -136.96719360351562
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.2199999988079071,
                         "scale": [
                             0.6000000238418579,
                             0.6000000238418579,
                             0.6000000238418579
                         ],
-                        "height": 538.64111328125,
+                        "rotation": 0.2199999988079071,
                         "position": [
                             111.23686218261719,
                             -495.05267333984375,
                             133.40716552734375
                         ],
+                        "height": 538.64111328125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1465,14 +1465,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.5051261186599731,
                             0.17125040292739868,
@@ -1487,19 +1488,18 @@
                             0.26859378814697266,
                             239.76766967773438
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.05000007152557373,
                         "scale": [
                             0.6000000238418579,
                             0.6000000238418579,
                             0.6000000238418579
                         ],
-                        "height": 535.6066284179688,
+                        "rotation": -0.05000007152557373,
                         "position": [
                             -239.82130432128906,
                             402.129638671875,
                             234.39585876464844
                         ],
+                        "height": 535.6066284179688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1514,14 +1514,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.5051261186599731,
                             0.17125040292739868,
@@ -1536,19 +1537,18 @@
                             -0.26859378814697266,
                             -239.76768493652344
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.05000007152557373,
                         "scale": [
                             0.6000000238418579,
                             0.6000000238418579,
                             0.6000000238418579
                         ],
-                        "height": 535.6066284179688,
+                        "rotation": -0.05000007152557373,
                         "position": [
                             -239.82130432128906,
                             402.129638671875,
                             234.39585876464844
                         ],
+                        "height": 535.6066284179688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1563,14 +1563,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.13205915689468384,
                             0.2923147678375244,
@@ -1585,19 +1586,18 @@
                             0.04706230014562607,
                             48.66182327270508
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -1.199999451637268,
                         "scale": [
                             0.5200001001358032,
                             0.5200001001358032,
                             0.5200001001358032
                         ],
-                        "height": 537.6735229492188,
+                        "rotation": -1.199999451637268,
                         "position": [
                             -414.5355224609375,
                             321.36151123046875,
                             47.666358947753906
                         ],
+                        "height": 537.6735229492188,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1612,14 +1612,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.13205915689468384,
                             0.2923147678375244,
@@ -1634,19 +1635,18 @@
                             -0.04706230014562607,
                             -48.66181945800781
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -1.199999451637268,
                         "scale": [
                             0.5200001001358032,
                             0.5200001001358032,
                             0.5200001001358032
                         ],
-                        "height": 537.6735229492188,
+                        "rotation": -1.199999451637268,
                         "position": [
                             -414.5355224609375,
                             321.36151123046875,
                             47.666358947753906
                         ],
+                        "height": 537.6735229492188,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1661,14 +1661,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.0020690925884991884,
                             0.05306955426931381,
@@ -1683,19 +1684,18 @@
                             -0.03638622537255287,
                             -239.82212829589844
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0,
                         "scale": [
                             0.08000002801418304,
                             0.08000002801418304,
                             0.08000002801418304
                         ],
-                        "height": 527.2813110351562,
+                        "rotation": 0,
                         "position": [
                             -393.576904296875,
                             254.50436401367188,
                             -239.3673858642578
                         ],
+                        "height": 527.2813110351562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1710,14 +1710,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.0020690925884991884,
                             0.05306955426931381,
@@ -1732,19 +1733,18 @@
                             0.03638622537255287,
                             239.82212829589844
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0,
                         "scale": [
                             0.08000002801418304,
                             0.08000002801418304,
                             0.08000002801418304
                         ],
-                        "height": 527.2813110351562,
+                        "rotation": 0,
                         "position": [
                             -393.576904296875,
                             254.50436401367188,
                             -239.3673858642578
                         ],
+                        "height": 527.2813110351562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1759,14 +1759,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.00938535574823618,
                             0.01207960955798626,
@@ -1781,19 +1782,18 @@
                             0.007775052450597286,
                             40.887107849121094
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0,
                         "scale": [
                             0.10000002384185791,
                             0.10000002384185791,
                             0.10000002384185791
                         ],
-                        "height": 525.8757934570312,
+                        "rotation": 0,
                         "position": [
                             -519.6865844726562,
                             69.27809143066406,
                             40.887054443359375
                         ],
+                        "height": 525.8757934570312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1808,14 +1808,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.00938535574823618,
                             0.01207960955798626,
@@ -1830,19 +1831,18 @@
                             -0.007775052450597286,
                             -40.887107849121094
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0,
                         "scale": [
                             0.10000002384185791,
                             0.10000002384185791,
                             0.10000002384185791
                         ],
-                        "height": 525.8757934570312,
+                        "rotation": 0,
                         "position": [
                             -519.6865844726562,
                             69.27809143066406,
                             40.887054443359375
                         ],
+                        "height": 525.8757934570312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1857,14 +1857,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.11681707203388214,
                             -0.07552415877580643,
@@ -1879,19 +1880,18 @@
                             0.13432243466377258,
                             371.6759033203125
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.47000008821487427,
                         "scale": [
                             0.19000014662742615,
                             0.19000014662742615,
                             0.19000014662742615
                         ],
-                        "height": 525.738525390625,
+                        "rotation": 0.47000008821487427,
                         "position": [
                             -356.0713806152344,
                             -99.48787689208984,
                             369.5550231933594
                         ],
+                        "height": 525.738525390625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1906,14 +1906,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             0.11681707203388214,
                             -0.07552415877580643,
@@ -1928,19 +1929,18 @@
                             -0.13432243466377258,
                             -371.6759033203125
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": 0.47000008821487427,
                         "scale": [
                             0.19000014662742615,
                             0.19000014662742615,
                             0.19000014662742615
                         ],
-                        "height": 525.738525390625,
+                        "rotation": 0.47000008821487427,
                         "position": [
                             -356.0713806152344,
                             -99.48787689208984,
                             369.5550231933594
                         ],
+                        "height": 525.738525390625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1955,14 +1955,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.03281683847308159,
                             -0.09402132034301758,
@@ -1977,19 +1978,18 @@
                             -0.09115519374608994,
                             -320.0339050292969
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.3599998950958252,
                         "scale": [
                             0.15000011026859283,
                             0.15000011026859283,
                             0.15000011026859283
                         ],
-                        "height": 526.6306762695312,
+                        "rotation": -0.3599998950958252,
                         "position": [
                             -391.5858154296875,
                             -139.96971130371094,
                             -318.2108154296875
                         ],
+                        "height": 526.6306762695312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2004,14 +2004,15 @@
                         "no_features": true
                     },
                     {
+                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
-                        "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                         "proj": "BP_Bend",
+                        "op": "BO_Subtract",
                         "transform": [
                             -0.03281683847308159,
                             -0.09402132034301758,
@@ -2026,19 +2027,18 @@
                             0.09115519374608994,
                             320.033935546875
                         ],
-                        "op": "BO_Subtract",
-                        "rotation": -0.3599998950958252,
                         "scale": [
                             0.15000011026859283,
                             0.15000011026859283,
                             0.15000011026859283
                         ],
-                        "height": 526.6306762695312,
+                        "rotation": -0.3599998950958252,
                         "position": [
                             -391.5858154296875,
                             -139.96971130371094,
                             -318.2108154296875
                         ],
+                        "height": 526.6306762695312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2078,11 +2078,6 @@
                         263.09356689453125,
                         466.2530822753906,
                         -0.3720855712890625
-                    ],
-                    [
-                        263.09356689453125,
-                        466.2530822753906,
-                        0.3720855712890625
                     ],
                     [
                         247.24554443359375,
@@ -2205,46 +2200,6 @@
                         -53.027679443359375
                     ],
                     [
-                        55.68846130371094,
-                        71.58946990966797,
-                        511.68731689453125
-                    ],
-                    [
-                        55.68846130371094,
-                        71.58946990966797,
-                        -511.68731689453125
-                    ],
-                    [
-                        80.47294616699219,
-                        -45.078697204589844,
-                        511.28936767578125
-                    ],
-                    [
-                        80.47294616699219,
-                        -45.078697204589844,
-                        -511.28936767578125
-                    ],
-                    [
-                        -58.72698974609375,
-                        -74.8165283203125,
-                        511.5430908203125
-                    ],
-                    [
-                        -58.72698974609375,
-                        -74.8165283203125,
-                        -511.5430908203125
-                    ],
-                    [
-                        -81.37842559814453,
-                        48.43902587890625,
-                        511.36962890625
-                    ],
-                    [
-                        -81.37842559814453,
-                        48.43902587890625,
-                        -511.36962890625
-                    ],
-                    [
                         532.4468994140625,
                         -37.83998489379883,
                         91.69984436035156
@@ -2340,11 +2295,6 @@
                         397.6690673828125
                     ],
                     [
-                        -127.59857177734375,
-                        303.30859375,
-                        -397.6690673828125
-                    ],
-                    [
                         -146.860595703125,
                         -326.66925048828125,
                         388.4420166015625
@@ -2363,19 +2313,79 @@
                         28.644317626953125,
                         -505.52734375,
                         -113.34284973144531
+                    ],
+                    [
+                        -70.4979248046875,
+                        -243.87652587890625,
+                        461.74462890625
+                    ],
+                    [
+                        -70.4979248046875,
+                        -243.87652587890625,
+                        -461.74462890625
+                    ],
+                    [
+                        -4.191990852355957,
+                        -249.63580322265625,
+                        462.41143798828125
+                    ],
+                    [
+                        -4.191990852355957,
+                        -249.63580322265625,
+                        -462.41143798828125
+                    ],
+                    [
+                        73.08909606933594,
+                        36.27482604980469,
+                        512.4541015625
+                    ],
+                    [
+                        73.08909606933594,
+                        36.27482604980469,
+                        -512.4541015625
+                    ],
+                    [
+                        87.55121612548828,
+                        -23.945613861083984,
+                        511.65228271484375
+                    ],
+                    [
+                        87.55121612548828,
+                        -23.945613861083984,
+                        -511.65228271484375
+                    ],
+                    [
+                        -20.53363037109375,
+                        82.30654907226562,
+                        514.1810302734375
+                    ],
+                    [
+                        -20.53363037109375,
+                        82.30654907226562,
+                        -514.1810302734375
+                    ],
+                    [
+                        -82.18146514892578,
+                        49.57159423828125,
+                        511.10211181640625
+                    ],
+                    [
+                        -82.18146514892578,
+                        49.57159423828125,
+                        -511.10211181640625
                     ]
                 ],
                 "landing_zones": {
                     "list": [
                         [
-                            -0.558232307434082,
-                            -1.5178375244140625,
-                            528.7966918945312
+                            -11.554176330566406,
+                            -16.573501586914062,
+                            518.9968872070312
                         ],
                         [
-                            -0.558232307434082,
-                            -1.5178375244140625,
-                            -528.7966918945312
+                            -11.554176330566406,
+                            -16.573501586914062,
+                            -518.9968872070312
                         ]
                     ],
                     "rules": [
@@ -4721,6 +4731,11 @@
                     -82.18146514892578,
                     49.57159423828125,
                     -511.10211181640625
+                ],
+                [
+                    -144.65054321289062,
+                    299.85693359375,
+                    -395.00372314453125
                 ]
             ],
             "landing_zones": {
