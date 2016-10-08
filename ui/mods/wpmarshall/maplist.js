@@ -16,6 +16,7 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/shipyards.pas",
 	"coui://ui/mods/wpmarshall/systems/outlier.pas",	
 	"coui://ui/mods/wpmarshall/systems/station_sigma.pas",	
+	"coui://ui/mods/wpmarshall/systems/station_sigma (5v5 unshared).pas",	
 	"coui://ui/mods/wpmarshall/systems/station_sigma (ffa).pas",		
 	"coui://ui/mods/wpmarshall/systems/tandem.pas",	
 	"coui://ui/mods/wpmarshall/systems/quandary.pas",	
