@@ -4,9 +4,7 @@
     "version": "1",
     "date": "2016/10/08",
     "description": "(5v5) Designed for UNSHARED teams, Station Sigma challenges teams to evenly distribute their forces and economy in order to contest all channels between poles. Lose one and you run the risk of defeat!",
-    "players": [
-        10,
-    ],
+    "players": [        10],
     "planets": [
         {
             "name": "Station Sigma",
