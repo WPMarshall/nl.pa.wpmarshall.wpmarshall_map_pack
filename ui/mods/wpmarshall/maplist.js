@@ -36,3 +36,13 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/world_of tomorrow 2.1.0.pas",	
 	
 ]);
+cShareSystems.load_pas("HEMISPHERIC Maps", [
+	"coui://ui/mods/wpmarshall/systems/thief's_pass.pas",	
+	"coui://ui/mods/wpmarshall/systems/shoreline.pas",	
+	"coui://ui/mods/wpmarshall/systems/four_corners.pas",	
+	"coui://ui/mods/wpmarshall/systems/five-leaf_clover.pas",	
+	"coui://ui/mods/wpmarshall/systems/finn's_resurgence.pas",	
+	"coui://ui/mods/wpmarshall/systems/fields_of isis.pas",	
+	"coui://ui/mods/wpmarshall/systems/doomball.pas",	
+	
+]);
