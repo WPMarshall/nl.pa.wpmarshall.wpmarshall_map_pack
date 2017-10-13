@@ -27,6 +27,7 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (classic).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (redux).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (titans).pas",
+	"coui://ui/mods/wpmarshall/systems/cosmic_chaos (15 players max).pas",
 	"coui://ui/mods/wpmarshall/systems/(10p_ffa) gladiator's forum deluxe.pas",
 	"coui://ui/mods/wpmarshall/systems/(shared) gladiator's forum deluxe.pas",	
 	"coui://ui/mods/wpmarshall/systems/diskus_(teams).pas",	
