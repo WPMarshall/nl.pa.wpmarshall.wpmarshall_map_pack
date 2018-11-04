@@ -26,6 +26,7 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/realm_battlegrounds.pas",	
 	"coui://ui/mods/wpmarshall/systems/the_able conglomerate.pas",	
 	"coui://ui/mods/wpmarshall/systems/sorian's_supper.pas",	
+	"coui://ui/mods/wpmarshall/systems/final_destination.pas",	
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (classic).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (redux).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (titans).pas",

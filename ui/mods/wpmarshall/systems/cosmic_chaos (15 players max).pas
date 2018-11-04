@@ -6890,8 +6890,8 @@
             "starting_planet": false,
             "respawn": true,
             "start_destroyed": true,
-            "min_spawn_delay": 600,
-            "max_spawn_delay": 900,
+            "min_spawn_delay": 0,
+            "max_spawn_delay": 1,
             "planet": {
                 "seed": 1514044544,
                 "radius": 250,
