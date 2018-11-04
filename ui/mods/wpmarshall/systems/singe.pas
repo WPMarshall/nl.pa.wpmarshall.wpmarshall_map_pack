@@ -1,8 +1,8 @@
 {
     "name": "Singe",
 	"creator": "WPMarshall",
-	"version": "1.0",
-	"date": "2018/08/05",
+	"version": "1.1",
+	"date": "2018/11/04",
 	"description": "(Supports: 2 Shared Teams) A tricky map that debuted in the 1st Commandonut Blind Tourney. Be mindful of all the ways from which you can be attacked, and remember to expand and raid! Don't give your opponent a break!",
 	"players": [
         2,
@@ -5238,11 +5238,6 @@
             ],
             "metal_spots": [
                 [
-                    -403.4405212402344,
-                    -163.01461791992188,
-                    -380.8739013671875
-                ],
-                [
                     -267.2205810546875,
                     -399.6881103515625,
                     426.69366455078125
@@ -5621,6 +5616,16 @@
                     -241.08326721191406,
                     575.6356201171875,
                     -24.149749755859375
+                ],
+                [
+                    -402.15545654296875,
+                    -158.92599487304688,
+                    -384.5667419433594
+                ],
+                [
+                    -402.15545654296875,
+                    -158.92599487304688,
+                    384.5667419433594
                 ]
             ],
             "landing_zones": {
