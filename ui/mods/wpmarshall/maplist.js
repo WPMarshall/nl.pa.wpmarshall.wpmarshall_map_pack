@@ -1,6 +1,5 @@
 cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_smelter.pas",
-	"coui://ui/mods/wpmarshall/systems/(1v1)_lugaan.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_derisia.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_oblivarum.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_moore.pas",
@@ -12,8 +11,6 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/monsoon.pas",	
 	"coui://ui/mods/wpmarshall/systems/fields_of isis.pas",	
 	"coui://ui/mods/wpmarshall/systems/cauldron.pas",	
-	"coui://ui/mods/wpmarshall/systems/singe.pas",	
-	"coui://ui/mods/wpmarshall/systems/disparity.pas",	
 	"coui://ui/mods/wpmarshall/systems/cratered.pas",	
 	"coui://ui/mods/wpmarshall/systems/shipyards.pas",
 	"coui://ui/mods/wpmarshall/systems/outlier.pas",	
