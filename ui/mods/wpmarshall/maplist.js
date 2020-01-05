@@ -1,6 +1,5 @@
-cShareSystems.load_pas("WPMarshall's Map Pack", [
+cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_smelter.pas",
-	"coui://ui/mods/wpmarshall/systems/(1v1)_lugaan.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_derisia.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_oblivarum.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_moore.pas",
@@ -12,12 +11,10 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/monsoon.pas",	
 	"coui://ui/mods/wpmarshall/systems/fields_of isis.pas",	
 	"coui://ui/mods/wpmarshall/systems/cauldron.pas",	
-	"coui://ui/mods/wpmarshall/systems/singe.pas",	
-	"coui://ui/mods/wpmarshall/systems/disparity.pas",	
 	"coui://ui/mods/wpmarshall/systems/cratered.pas",	
 	"coui://ui/mods/wpmarshall/systems/shipyards.pas",
 	"coui://ui/mods/wpmarshall/systems/outlier.pas",	
-	"coui://ui/mods/wpmarshall/systems/seton's_grip.pas",	
+	"coui://ui/mods/wpmarshall/systems/seton's_clutch.pas",	
 	"coui://ui/mods/wpmarshall/systems/station_sigma.pas",	
 	"coui://ui/mods/wpmarshall/systems/station_sigma (5v5 unshared).pas",	
 	"coui://ui/mods/wpmarshall/systems/station_sigma (ffa).pas",		
@@ -43,7 +40,7 @@ cShareSystems.load_pas("WPMarshall's Map Pack", [
 	"coui://ui/mods/wpmarshall/systems/world_of tomorrow 2.1.0.pas",	
 	
 ]);
-cShareSystems.load_pas("HEMISPHERIC Maps", [
+cShareSystems.load_pas("HEMISPHERIC", [
 	"coui://ui/mods/wpmarshall/systems/thief's_pass.pas",	
 	"coui://ui/mods/wpmarshall/systems/shoreline.pas",	
 	"coui://ui/mods/wpmarshall/systems/four_corners.pas",	
