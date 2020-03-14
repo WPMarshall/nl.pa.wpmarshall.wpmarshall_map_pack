@@ -27,6 +27,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/the_sift.pas",	
 	"coui://ui/mods/wpmarshall/systems/final_destination.pas",	
 	"coui://ui/mods/wpmarshall/systems/marshall's_legacy.pas",	
+	"coui://ui/mods/wpmarshall/systems/the_great scuffle.pas",	
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (classic).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (redux).pas",
 	"coui://ui/mods/wpmarshall/systems/marshall's_lament (titans).pas",
