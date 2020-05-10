@@ -1,8 +1,8 @@
 {
     "name": "Four Corners",
 	"creator": "WPMarshall",
-	"version": "1",
-	"date": "2017/01/14",
+	"version": "2",
+	"date": "2020/05/10",
 	"description": "For 4 teams - Start on a small island in a corner and expand and fight with naval and air. Don't forget about amphibious units!",
 	"players": [
         4,
@@ -43,41 +43,41 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_sub.json",
+                    "height": -800.2311401367188,
+                    "op": "BO_Add",
+                    "position": [
+                        -817.1524047851562,
+                        58.318572998046875,
+                        0
+                    ],
+                    "transform": [
+                        0.6741427183151245,
+                        -0.0000016614794731140137,
+                        -14.373579025268555,
+                        798.2008666992188,
+                        9.446001052856445,
+                        5.364418029785156e-7,
+                        1.0258142948150635,
+                        -56.966041564941406,
+                        4.172325134277344e-7,
+                        -9.470025062561035,
+                        0.000002576733550085919,
+                        -0.00014309247490018606
+                    ],
+                    "scale": [
+                        9.470026969909668,
+                        9.470026969909668,
+                        14.410139083862305
+                    ],
+                    "rotation": 1.4995490312576294,
                     "weight": [
                         0,
                         0,
                         0,
                         0
                     ],
-                    "proj": "BP_None",
-                    "op": "BO_Add",
-                    "transform": [
-                        0.6045477390289307,
-                        -0.6045507192611694,
-                        -16.907190322875977,
-                        325.4034423828125,
-                        8.470868110656738,
-                        -8.470866203308105,
-                        1.20663321018219,
-                        -23.22340965270996,
-                        -8.492410659790039,
-                        -8.492411613464355,
-                        0.0000030309311114251614,
-                        -0.0000583346736675594
-                    ],
-                    "scale": [
-                        12.010085105895996,
-                        12.010085105895996,
-                        16.950197219848633
-                    ],
-                    "rotation": 2.284947156906128,
-                    "position": [
-                        -817.1524047851562,
-                        58.318572998046875,
-                        0
-                    ],
-                    "height": -326.23114013671875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -86,21 +86,217 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 837.2311401367188,
+                    "op": "BO_Add",
+                    "position": [
+                        817.1524047851562,
+                        -58.318572998046875,
+                        0
+                    ],
+                    "transform": [
+                        0.000001735985279083252,
+                        0.7040418982505798,
+                        17.02688980102539,
+                        835.1069946289062,
+                        -5.960464477539062e-7,
+                        9.864945411682129,
+                        -1.215175986289978,
+                        -59.59995651245117,
+                        -9.890035629272461,
+                        -4.76837158203125e-7,
+                        0.000003052389729418792,
+                        0.00014970859047025442
+                    ],
+                    "scale": [
+                        9.890036582946777,
+                        9.890036582946777,
+                        17.070199966430664
+                    ],
+                    "rotation": -0.07124729454517365,
                     "weight": [
                         0,
                         0,
                         0,
                         0
                     ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 0,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false
+                },
+                {
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 837.2311401367188,
                     "op": "BO_Add",
+                    "position": [
+                        817.1524047851562,
+                        -58.318572998046875,
+                        0
+                    ],
+                    "transform": [
+                        0.7040418982505798,
+                        -0.000001735985279083252,
+                        17.02688980102539,
+                        835.1069946289062,
+                        9.864945411682129,
+                        5.960464477539062e-7,
+                        -1.215175986289978,
+                        -59.59995651245117,
+                        -4.76837158203125e-7,
+                        9.890035629272461,
+                        0.000003052389729418792,
+                        0.00014970859047025442
+                    ],
+                    "scale": [
+                        9.890036582946777,
+                        9.890036582946777,
+                        17.070199966430664
+                    ],
+                    "rotation": 1.4995490312576294,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 0,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 837.2311401367188,
+                    "op": "BO_Add",
+                    "position": [
+                        817.1524047851562,
+                        -58.318572998046875,
+                        0
+                    ],
+                    "transform": [
+                        -0.0000017657876014709473,
+                        -0.7040418982505798,
+                        17.02688980102539,
+                        835.1069946289062,
+                        1.7881393432617188e-7,
+                        -9.864945411682129,
+                        -1.215175986289978,
+                        -59.59995651245117,
+                        9.890035629272461,
+                        5.960464477539063e-8,
+                        0.000003052389729418792,
+                        0.00014970859047025442
+                    ],
+                    "scale": [
+                        9.890036582946777,
+                        9.890036582946777,
+                        17.070199966430664
+                    ],
+                    "rotation": 3.070345401763916,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 0,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 837.2311401367188,
+                    "op": "BO_Add",
+                    "position": [
+                        817.1524047851562,
+                        -58.318572998046875,
+                        0
+                    ],
+                    "transform": [
+                        -0.7040418982505798,
+                        0.0000018849968910217285,
+                        17.026887893676758,
+                        835.1069946289062,
+                        -9.864945411682129,
+                        0.0000014901161193847656,
+                        -1.2151758670806885,
+                        -59.59995651245117,
+                        -0.0000016093254089355469,
+                        -9.890035629272461,
+                        0.000003052389274671441,
+                        0.00014970859047025442
+                    ],
+                    "scale": [
+                        9.890036582946777,
+                        9.890036582946777,
+                        17.070199966430664
+                    ],
+                    "rotation": 4.641141891479492,
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "weightHard": false,
+                    "weightScale": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "mirrored": false,
+                    "twinId": 0,
+                    "pathable": false,
+                    "flooded": false,
+                    "mergeable": false,
+                    "no_features": false
+                },
+                {
+                    "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
+                    "height": 801.579833984375,
+                    "op": "BO_Add",
+                    "position": [
+                        -118.627197265625,
+                        562.36669921875,
+                        581.4705810546875
+                    ],
                     "transform": [
                         0.01554860919713974,
                         1.3158332109451294,
@@ -121,12 +317,12 @@
                         2.5699985027313232
                     ],
                     "rotation": -1.4999992847442627,
-                    "position": [
-                        -118.627197265625,
-                        562.36669921875,
-                        581.4705810546875
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
                     ],
-                    "height": 801.579833984375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -134,22 +330,22 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 1,
-                    "flooded": false,
+                    "twinId": 0,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
+                    "height": 801.579833984375,
                     "op": "BO_Add",
+                    "position": [
+                        -118.627197265625,
+                        562.36669921875,
+                        581.4705810546875
+                    ],
                     "transform": [
                         0.01554860919713974,
                         1.3158332109451294,
@@ -170,12 +366,12 @@
                         2.5699985027313232
                     ],
                     "rotation": -1.4999992847442627,
-                    "position": [
-                        -118.627197265625,
-                        562.36669921875,
-                        581.4705810546875
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
                     ],
-                    "height": 801.579833984375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -183,22 +379,22 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 1,
-                    "flooded": false,
+                    "twinId": 0,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
+                    "height": 800.5377807617188,
                     "op": "BO_Add",
+                    "position": [
+                        -210.9833984375,
+                        -535.3057861328125,
+                        -580.77685546875
+                    ],
                     "transform": [
                         0.13305413722991943,
                         1.3363068103790283,
@@ -219,12 +415,12 @@
                         2.7499983310699463
                     ],
                     "rotation": -2.1199986934661865,
-                    "position": [
-                        -210.9833984375,
-                        -535.3057861328125,
-                        -580.77685546875
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
                     ],
-                    "height": 800.5377807617188,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -232,22 +428,22 @@
                         1
                     ],
                     "mirrored": false,
-                    "twinId": 2,
-                    "flooded": false,
+                    "twinId": 0,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
-                    "weight": [
-                        0,
-                        0,
-                        0,
-                        0
-                    ],
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/jungle/brushes/jungle_t1_large_8_ramp.json",
+                    "height": 800.5377807617188,
                     "op": "BO_Add",
+                    "position": [
+                        -210.9833984375,
+                        -535.3057861328125,
+                        -580.77685546875
+                    ],
                     "transform": [
                         0.13305413722991943,
                         1.3363068103790283,
@@ -268,12 +464,12 @@
                         2.7499983310699463
                     ],
                     "rotation": -2.1199986934661865,
-                    "position": [
-                        -210.9833984375,
-                        -535.3057861328125,
-                        -580.77685546875
+                    "weight": [
+                        0,
+                        0,
+                        0,
+                        0
                     ],
-                    "height": 800.5377807617188,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -281,9 +477,9 @@
                         1
                     ],
                     "mirrored": true,
-                    "twinId": 2,
-                    "flooded": false,
+                    "twinId": 0,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": false
                 }

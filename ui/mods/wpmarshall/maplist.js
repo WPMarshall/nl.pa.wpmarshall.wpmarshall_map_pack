@@ -47,6 +47,7 @@ cShareSystems.load_pas("HEMISPHERIC", [
 	"coui://ui/mods/wpmarshall/systems/four_corners.pas",	
 	"coui://ui/mods/wpmarshall/systems/five-leaf_clover.pas",	
 	"coui://ui/mods/wpmarshall/systems/finn's_resurgence.pas",	
+	"coui://ui/mods/wpmarshall/systems/dark_heart.pas",	
 	"coui://ui/mods/wpmarshall/systems/fields_of isis.pas",	
 	"coui://ui/mods/wpmarshall/systems/doomball.pas",	
 	
