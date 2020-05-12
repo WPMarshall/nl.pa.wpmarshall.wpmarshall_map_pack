@@ -1,5 +1,5 @@
 {
-    "name": "Station Sigma (5v5 UNSHARED)",
+    "name": "Station Sigma (5v5 Unshared)",
 	"creator": "WPMarshall",
     "version": "1",
     "date": "2016/10/08",

@@ -1,5 +1,5 @@
 {
-    "name": "Thief's Pass (1v1, 2v2+ SHARED)",
+    "name": "Thief's Pass (1v1, 2v2 SHARED)",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2017/01/14",

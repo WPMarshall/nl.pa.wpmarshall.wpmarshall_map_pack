@@ -1,5 +1,5 @@
 {
-    "name": "Cratered (1v1, 2v2+ SHARED)",
+    "name": "Cratered (1v1, 2 SHARED Teams)",
 	"creator": "WPMarshall",
  	"version": "1.1",
 	"date": "2016/10/05",
