@@ -1,5 +1,5 @@
 {
-    "name": "(10P FFA) Gladiator's Forum Redux",
+    "name": "Gladiator's Forum Redux (10P FFA)",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",
