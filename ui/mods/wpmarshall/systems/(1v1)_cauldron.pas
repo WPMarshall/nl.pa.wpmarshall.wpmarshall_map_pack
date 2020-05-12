@@ -1,5 +1,5 @@
 {
-    "name": "Cauldron (1v1, 2v2)",
+    "name": "Cauldron (1v1, 2v2 SHARED)",
 	"creator": "WPMarshall", 	
 	"version": "1.1", 
 	"date": "2016/10/05",	
