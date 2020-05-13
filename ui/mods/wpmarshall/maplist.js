@@ -12,9 +12,12 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_boading.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cauldron.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_monsoon.pas",
+	"coui://ui/mods/wpmarshall/systems/(2v2)_conductor.pas",
+	"coui://ui/mods/wpmarshall/systems/(2v2)_faren.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
-	"coui://ui/mods/wpmarshall/systems/(2shared)_shipyards.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_outlier.pas",
+	"coui://ui/mods/wpmarshall/systems/(2shared)_shipyards.pas",
+	"coui://ui/mods/wpmarshall/systems/(2shared)_snowball.pas",
 	"coui://ui/mods/wpmarshall/systems/(4v4)_seton's_clutch.pas",
 	"coui://ui/mods/wpmarshall/systems/(5v5)_station_sigma.pas",
 	"coui://ui/mods/wpmarshall/systems/(5unshared)_station_sigma (5v5 unshared).pas",
@@ -40,6 +43,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_diskus_(ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_cubic_combat.pas",
 	"coui://ui/mods/wpmarshall/systems/(5v5)_world_of tomorrow 2.1.0.pas",
+	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
 	
 ]);
 cShareSystems.load_pas("HEMISPHERIC", [
