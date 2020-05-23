@@ -13,7 +13,6 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cauldron.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_monsoon.pas",
 	"coui://ui/mods/wpmarshall/systems/(2v2)_conductor.pas",
-	"coui://ui/mods/wpmarshall/systems/(2v2)_faren.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_outlier.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_shipyards.pas",
