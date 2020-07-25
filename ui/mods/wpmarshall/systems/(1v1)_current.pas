@@ -4,10 +4,6 @@
     "version": "1.1.0",
 	"date": "2020/07/25",
 	"description": "(1v1 | 2v2 SHARED) Orbital system with naval start also featuring a gas giant!",	
-	"players": [
-        2,
-        4
-    ],	
     "planets": [
         {
             "name": "Current",
