@@ -35,8 +35,8 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_the_great scuffle.pas",
 	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_station_sigma (ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(5p_ffa)_doomball.pas",	
-	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_paf_5p ffa.pas",
-	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_paf_6p ffa.pas",
+	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_paf_5pffa.pas",
+	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_paf_6pffa.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_hollow_lanes.pas",
 	"coui://ui/mods/wpmarshall/systems/(7p_ffa)_the_sift.pas",	
 	"coui://ui/mods/wpmarshall/systems/(8p_ffa)_realm_battlegrounds.pas",
@@ -48,7 +48,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_cubic_combat.pas",
 	"coui://ui/mods/wpmarshall/systems/(5v5)_world_of tomorrow 2.1.0.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette (NoProj) [read description].pas",
+	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 	
 ]);
 cShareSystems.load_pas("HEMISPHERIC", [
