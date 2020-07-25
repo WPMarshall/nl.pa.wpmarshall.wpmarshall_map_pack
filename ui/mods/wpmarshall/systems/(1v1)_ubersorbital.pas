@@ -1,8 +1,9 @@
 {
     "name": "Ubers Don't Know How to Orbital (1v1)",
-    "description": "Orbital 1v1 with focus on gas",
     "creator": "NikolaMX, Published by WPMarshall",
     "version": "1.2.8",
+	"date": "2020/07/25",
+	"description": "Orbital 1v1 with focus on gas",
     "planets": [
         {
             "name": "Sweden",

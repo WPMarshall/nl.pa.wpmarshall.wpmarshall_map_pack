@@ -1,5 +1,6 @@
 {
     "name": "Retcon (4v4) (CAUTION: Don't use Nukes)",
+	"creator": "WPMarshall",
 	"version": "1.1",
 	"date": "2020/07/25",
 	"description": "4v4 Shared Or Unshared - Don't bother wasting your resources on nukes, they are a bit broken on this map.",	

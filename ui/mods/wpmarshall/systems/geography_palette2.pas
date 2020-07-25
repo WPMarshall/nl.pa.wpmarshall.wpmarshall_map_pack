@@ -1,7 +1,9 @@
 {
     "name": "Geography Palette (No Projection) [READ DESCRIPTION]",
-    "description": "Requires 'Hidden Biomes'. Save this as a TEMPLATE. Then place the planet in another system and copy-paste CSG across using CSG_Edit mode within ADVANCED EDIT",
+	"creator": "WPMarshall",
     "version": "1.1",
+	"date": "2020/07/25",
+	"description": "Requires 'Hidden Biomes'. Save this as a TEMPLATE. Then place the planet in another system and copy-paste CSG across using CSG_Edit mode within ADVANCED EDIT",
     "planets": [
         {
             "name": "Palette Planet",
