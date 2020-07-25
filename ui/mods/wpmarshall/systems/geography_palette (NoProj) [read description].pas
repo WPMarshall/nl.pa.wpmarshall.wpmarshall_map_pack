@@ -1,12 +1,7 @@
 {
-    "name": "Geography Palette [READ DESCRIPTION]",
-	"version": "1.0",
-	"date": "2020/05/13",
-	"description": "Requires 'Hidden Biomes'. Save this as a TEMPLATE. Then place the planet in another system and copy-paste CSG across using CSG_Edit mode within ADVANCED EDIT",	
-	"players": [
-        1,
-        2
-    ],
+    "name": "Geography Palette (No Projection) [READ DESCRIPTION]",
+    "description": "Requires 'Hidden Biomes'. Save this as a TEMPLATE. Then place the planet in another system and copy-paste CSG across using CSG_Edit mode within ADVANCED EDIT",
+    "version": "1.1",
     "planets": [
         {
             "name": "Palette Planet",
@@ -21,28 +16,9 @@
             "start_destroyed": false,
             "min_spawn_delay": 0,
             "max_spawn_delay": 0,
-            "planet": {
-                "seed": 434323968,
-                "radius": 1000,
-                "heightRange": 0,
-                "waterHeight": 0,
-                "waterDepth": 100,
-                "temperature": 50,
-                "metalDensity": 0,
-                "metalClusters": 0,
-                "metalSpotLimit": -1,
-                "biomeScale": 50,
-                "biome": "csg_debug",
-                "symmetryType": "none",
-                "symmetricalMetal": false,
-                "symmetricalStarts": false,
-                "numArmies": 2,
-                "landingZonesPerArmy": 0,
-                "landingZoneSize": 0
-            },
             "planetCSG": [
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                     "height": 999.932373046875,
                     "op": "BO_Add",
@@ -91,7 +67,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_02.json",
                     "height": 999.9234008789062,
                     "op": "BO_Add",
@@ -140,7 +116,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "height": 999.9305419921875,
                     "op": "BO_Add",
@@ -189,7 +165,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_04.json",
                     "height": 999.9176635742188,
                     "op": "BO_Add",
@@ -238,7 +214,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_05.json",
                     "height": 999.9241333007812,
                     "op": "BO_Add",
@@ -287,7 +263,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "height": 999.9395751953125,
                     "op": "BO_Add",
@@ -336,7 +312,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                     "height": 999.928955078125,
                     "op": "BO_Add",
@@ -385,7 +361,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
                     "height": 999.8880615234375,
                     "op": "BO_Add",
@@ -434,7 +410,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_09.json",
                     "height": 999.9169921875,
                     "op": "BO_Add",
@@ -483,7 +459,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                     "height": 999.8889770507812,
                     "op": "BO_Add",
@@ -532,7 +508,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "height": 999.9058227539062,
                     "op": "BO_Add",
@@ -581,7 +557,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_crack_01.json",
                     "height": 999.932373046875,
                     "op": "BO_Subtract",
@@ -630,7 +606,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_crack_02.json",
                     "height": 999.903076171875,
                     "op": "BO_Subtract",
@@ -679,7 +655,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_01.json",
                     "height": 999.87451171875,
                     "op": "BO_Add",
@@ -728,7 +704,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_02.json",
                     "height": 999.8931274414062,
                     "op": "BO_Add",
@@ -777,7 +753,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_03.json",
                     "height": 999.8632202148438,
                     "op": "BO_Add",
@@ -826,7 +802,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_04.json",
                     "height": 999.8494873046875,
                     "op": "BO_Add",
@@ -875,7 +851,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_05.json",
                     "height": 999.907958984375,
                     "op": "BO_Add",
@@ -924,7 +900,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_06.json",
                     "height": 999.9033813476562,
                     "op": "BO_Add",
@@ -973,7 +949,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_07.json",
                     "height": 999.9186401367188,
                     "op": "BO_Add",
@@ -1022,7 +998,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_plateau_02.json",
                     "height": 999.8945922851562,
                     "op": "BO_Add",
@@ -1071,7 +1047,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_plateau_03.json",
                     "height": 999.9252319335938,
                     "op": "BO_Add",
@@ -1120,7 +1096,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_plateau_04.json",
                     "height": 999.8992309570312,
                     "op": "BO_Add",
@@ -1169,7 +1145,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_henge.json",
                     "height": 999.9667358398438,
                     "op": "BO_Add",
@@ -1218,7 +1194,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/generic/brushes/unit_cannon_wreckage.json",
                     "height": 999.8772583007812,
                     "op": "BO_Add",
@@ -1267,7 +1243,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_crack_01.json",
                     "height": 999.91943359375,
                     "op": "BO_Subtract",
@@ -1316,7 +1292,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_crack_02.json",
                     "height": 999.8908081054688,
                     "op": "BO_Subtract",
@@ -1365,7 +1341,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_crack_03.json",
                     "height": 999.9263305664062,
                     "op": "BO_Subtract",
@@ -1414,7 +1390,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_crack_04.json",
                     "height": 999.8971557617188,
                     "op": "BO_Subtract",
@@ -1463,7 +1439,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_crack_05.json",
                     "height": 999.895263671875,
                     "op": "BO_Subtract",
@@ -1512,7 +1488,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_01.json",
                     "height": 999.9190063476562,
                     "op": "BO_Add",
@@ -1561,7 +1537,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/jungle/brushes/jungle_volcano_06.json",
                     "height": 999.9358520507812,
                     "op": "BO_Add",
@@ -1610,7 +1586,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/jungle/brushes/jungle_plateau_06.json",
                     "height": 999.9302368164062,
                     "op": "BO_Add",
@@ -1659,7 +1635,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/jungle/brushes/jungle_crack_01.json",
                     "height": 999.8582153320312,
                     "op": "BO_Subtract",
@@ -1708,7 +1684,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/jungle/brushes/jungle_temple.json",
                     "height": 999.8621826171875,
                     "op": "BO_Add",
@@ -1757,7 +1733,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_01.json",
                     "height": 999.8955078125,
                     "op": "BO_Add",
@@ -1806,7 +1782,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_02.json",
                     "height": 999.91357421875,
                     "op": "BO_Add",
@@ -1855,7 +1831,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_03.json",
                     "height": 999.92529296875,
                     "op": "BO_Add",
@@ -1904,7 +1880,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_04.json",
                     "height": 999.881591796875,
                     "op": "BO_Add",
@@ -1953,7 +1929,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_05.json",
                     "height": 999.9334106445312,
                     "op": "BO_Add",
@@ -2002,7 +1978,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_06.json",
                     "height": 999.9691162109375,
                     "op": "BO_Add",
@@ -2051,7 +2027,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_07.json",
                     "height": 999.9345703125,
                     "op": "BO_Add",
@@ -2100,7 +2076,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_08.json",
                     "height": 999.9286499023438,
                     "op": "BO_Add",
@@ -2149,7 +2125,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_09.json",
                     "height": 999.9141845703125,
                     "op": "BO_Add",
@@ -2198,7 +2174,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_04.json",
                     "height": 999.8413696289062,
                     "op": "BO_Add",
@@ -2247,7 +2223,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_05.json",
                     "height": 999.8922119140625,
                     "op": "BO_Add",
@@ -2296,7 +2272,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_33.json",
                     "height": 999.969970703125,
                     "op": "BO_Add",
@@ -2345,7 +2321,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_34.json",
                     "height": 999.9434204101562,
                     "op": "BO_Add",
@@ -2394,7 +2370,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_01.json",
                     "height": 999.845458984375,
                     "op": "BO_Subtract",
@@ -2443,7 +2419,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_03.json",
                     "height": 999.8519287109375,
                     "op": "BO_Subtract",
@@ -2492,7 +2468,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_crack_04.json",
                     "height": 999.9071044921875,
                     "op": "BO_Subtract",
@@ -2541,7 +2517,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_06.json",
                     "height": 999.9258422851562,
                     "op": "BO_Add",
@@ -2590,7 +2566,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_33.json",
                     "height": 999.969970703125,
                     "op": "BO_Add",
@@ -2639,7 +2615,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_01.json",
                     "height": 999.8536987304688,
                     "op": "BO_Subtract",
@@ -2688,7 +2664,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
                     "height": 999.9666748046875,
                     "op": "BO_Add",
@@ -2737,7 +2713,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "height": 999.83154296875,
                     "op": "BO_Add",
@@ -2786,7 +2762,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_10.json",
                     "height": 999.8983764648438,
                     "op": "BO_Add",
@@ -2835,7 +2811,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
                     "height": 999.8442993164062,
                     "op": "BO_Add",
@@ -2884,7 +2860,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_ruins_01.json",
                     "height": 999.843505859375,
                     "op": "BO_Add",
@@ -2933,7 +2909,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": 999.9125366210938,
                     "op": "BO_Subtract",
@@ -2982,7 +2958,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/moon/brushes/moon_ruin_01.json",
                     "height": 999.8900756835938,
                     "op": "BO_Add",
@@ -3031,7 +3007,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_01.json",
                     "height": 999.831298828125,
                     "op": "BO_Add",
@@ -3080,7 +3056,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_02.json",
                     "height": 999.8609619140625,
                     "op": "BO_Add",
@@ -3129,7 +3105,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_03.json",
                     "height": 999.8617553710938,
                     "op": "BO_Add",
@@ -3178,7 +3154,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_04.json",
                     "height": 999.8595581054688,
                     "op": "BO_Add",
@@ -3227,7 +3203,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_05.json",
                     "height": 999.8922729492188,
                     "op": "BO_Add",
@@ -3276,7 +3252,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_08.json",
                     "height": 999.9006958007812,
                     "op": "BO_Add",
@@ -3325,7 +3301,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_09.json",
                     "height": 999.9390869140625,
                     "op": "BO_Add",
@@ -3374,7 +3350,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_10.json",
                     "height": 999.8282470703125,
                     "op": "BO_Add",
@@ -3423,7 +3399,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_11.json",
                     "height": 999.9143676757812,
                     "op": "BO_Add",
@@ -3472,7 +3448,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_12.json",
                     "height": 999.8989868164062,
                     "op": "BO_Add",
@@ -3521,7 +3497,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_15.json",
                     "height": 999.8890380859375,
                     "op": "BO_Add",
@@ -3570,7 +3546,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_16.json",
                     "height": 999.876953125,
                     "op": "BO_Add",
@@ -3619,7 +3595,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_17.json",
                     "height": 999.850830078125,
                     "op": "BO_Add",
@@ -3668,7 +3644,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_18.json",
                     "height": 999.9354858398438,
                     "op": "BO_Add",
@@ -3717,7 +3693,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_19.json",
                     "height": 999.8690795898438,
                     "op": "BO_Add",
@@ -3766,7 +3742,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_20.json",
                     "height": 999.8504028320312,
                     "op": "BO_Add",
@@ -3815,7 +3791,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_21.json",
                     "height": 999.9376220703125,
                     "op": "BO_Add",
@@ -3864,7 +3840,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_02.json",
                     "height": 999.900390625,
                     "op": "BO_Subtract",
@@ -3913,7 +3889,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_03.json",
                     "height": 999.863525390625,
                     "op": "BO_Subtract",
@@ -3962,7 +3938,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_04.json",
                     "height": 999.92333984375,
                     "op": "BO_Subtract",
@@ -4011,7 +3987,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_05.json",
                     "height": 999.890869140625,
                     "op": "BO_Subtract",
@@ -4060,7 +4036,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_06.json",
                     "height": 999.927978515625,
                     "op": "BO_Subtract",
@@ -4109,7 +4085,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_07.json",
                     "height": 999.8789672851562,
                     "op": "BO_Subtract",
@@ -4158,7 +4134,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_09.json",
                     "height": 999.9367065429688,
                     "op": "BO_Subtract",
@@ -4207,7 +4183,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_crack_08.json",
                     "height": 999.8922729492188,
                     "op": "BO_Subtract",
@@ -4256,7 +4232,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_01.json",
                     "height": 999.8829345703125,
                     "op": "BO_Subtract",
@@ -4305,7 +4281,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_02.json",
                     "height": 993.885498046875,
                     "op": "BO_Subtract",
@@ -4354,7 +4330,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_04.json",
                     "height": 999.8992309570312,
                     "op": "BO_Subtract",
@@ -4403,7 +4379,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_05.json",
                     "height": 999.8821411132812,
                     "op": "BO_Subtract",
@@ -4452,7 +4428,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_06.json",
                     "height": 999.845703125,
                     "op": "BO_Subtract",
@@ -4501,7 +4477,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_07.json",
                     "height": 999.901611328125,
                     "op": "BO_Subtract",
@@ -4550,7 +4526,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_08.json",
                     "height": 999.9116821289062,
                     "op": "BO_Subtract",
@@ -4599,7 +4575,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/desert/brushes/desert_pit_09.json",
                     "height": 999.9638671875,
                     "op": "BO_Subtract",
@@ -4648,7 +4624,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_01.json",
                     "height": 999.8701171875,
                     "op": "BO_Add",
@@ -4697,7 +4673,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_02.json",
                     "height": 999.92138671875,
                     "op": "BO_Add",
@@ -4746,7 +4722,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_03.json",
                     "height": 999.8863525390625,
                     "op": "BO_Add",
@@ -4795,7 +4771,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_04.json",
                     "height": 999.8964233398438,
                     "op": "BO_Add",
@@ -4844,7 +4820,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_05.json",
                     "height": 999.8988647460938,
                     "op": "BO_Add",
@@ -4893,7 +4869,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_06.json",
                     "height": 999.8938598632812,
                     "op": "BO_Add",
@@ -4942,7 +4918,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_07.json",
                     "height": 999.8324584960938,
                     "op": "BO_Add",
@@ -4991,7 +4967,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/grass/brushes/grass_hill_08.json",
                     "height": 999.8892822265625,
                     "op": "BO_Add",
@@ -5040,7 +5016,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_12.json",
                     "height": 999.8982543945312,
                     "op": "BO_Add",
@@ -5089,7 +5065,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/ice/brushes/ice_cliff_13.json",
                     "height": 999.8637084960938,
                     "op": "BO_Add",
@@ -5138,7 +5114,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_10.json",
                     "height": 999.8677368164062,
                     "op": "BO_Add",
@@ -5187,7 +5163,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_11.json",
                     "height": 999.9003295898438,
                     "op": "BO_Add",
@@ -5236,7 +5212,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_12.json",
                     "height": 999.8643798828125,
                     "op": "BO_Add",
@@ -5285,7 +5261,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_13.json",
                     "height": 999.89501953125,
                     "op": "BO_Add",
@@ -5334,7 +5310,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_plateau_14.json",
                     "height": 999.9039306640625,
                     "op": "BO_Add",
@@ -5383,7 +5359,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_01.json",
                     "height": 998.88818359375,
                     "op": "BO_Add",
@@ -5432,7 +5408,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_02.json",
                     "height": 999.9140014648438,
                     "op": "BO_Add",
@@ -5481,7 +5457,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_03.json",
                     "height": 997.9283447265625,
                     "op": "BO_Add",
@@ -5530,7 +5506,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_07.json",
                     "height": 1000.93603515625,
                     "op": "BO_Add",
@@ -5579,7 +5555,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_08.json",
                     "height": 999.9483032226562,
                     "op": "BO_Add",
@@ -5628,7 +5604,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_09.json",
                     "height": 999.9396362304688,
                     "op": "BO_Add",
@@ -5677,7 +5653,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_volcano_10.json",
                     "height": 999.9259643554688,
                     "op": "BO_Add",
@@ -5726,7 +5702,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_01.json",
                     "height": 999.9172973632812,
                     "op": "BO_Subtract",
@@ -5775,7 +5751,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_02.json",
                     "height": 999.893310546875,
                     "op": "BO_Subtract",
@@ -5824,7 +5800,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_03.json",
                     "height": 999.9178466796875,
                     "op": "BO_Subtract",
@@ -5873,7 +5849,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_04.json",
                     "height": 999.9340209960938,
                     "op": "BO_Subtract",
@@ -5922,7 +5898,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_05.json",
                     "height": 999.9385986328125,
                     "op": "BO_Subtract",
@@ -5971,7 +5947,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_06.json",
                     "height": 999.889892578125,
                     "op": "BO_Subtract",
@@ -6020,7 +5996,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_pit_07.json",
                     "height": 999.9490356445312,
                     "op": "BO_Subtract",
@@ -6069,7 +6045,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_35.json",
                     "height": 999.927490234375,
                     "op": "BO_Add",
@@ -6118,7 +6094,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_36.json",
                     "height": 999.9041748046875,
                     "op": "BO_Add",
@@ -6167,7 +6143,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_13.json",
                     "height": 1010.9276123046875,
                     "op": "BO_Add",
@@ -6216,7 +6192,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_14.json",
                     "height": 1004.8938598632812,
                     "op": "BO_Add",
@@ -6265,7 +6241,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_15.json",
                     "height": 1007.9014282226562,
                     "op": "BO_Add",
@@ -6314,7 +6290,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/lava/brushes/lava_rock_16.json",
                     "height": 999.9871215820312,
                     "op": "BO_Add",
@@ -6363,7 +6339,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_01.json",
                     "height": 999.9256591796875,
                     "op": "BO_Add",
@@ -6412,7 +6388,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_03.json",
                     "height": 999.9209594726562,
                     "op": "BO_Add",
@@ -6461,7 +6437,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_04.json",
                     "height": 999.9183349609375,
                     "op": "BO_Add",
@@ -6510,7 +6486,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_05.json",
                     "height": 999.887939453125,
                     "op": "BO_Add",
@@ -6559,7 +6535,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_06.json",
                     "height": 999.898193359375,
                     "op": "BO_Add",
@@ -6608,7 +6584,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_07.json",
                     "height": 999.8871459960938,
                     "op": "BO_Add",
@@ -6657,7 +6633,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_08.json",
                     "height": 999.8630981445312,
                     "op": "BO_Add",
@@ -6706,7 +6682,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_09.json",
                     "height": 999.8776245117188,
                     "op": "BO_Add",
@@ -6755,7 +6731,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_10.json",
                     "height": 999.8966064453125,
                     "op": "BO_Add",
@@ -6804,7 +6780,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_11.json",
                     "height": 999.8675537109375,
                     "op": "BO_Add",
@@ -6853,7 +6829,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
                     "height": 999.8844604492188,
                     "op": "BO_Add",
@@ -6902,7 +6878,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                     "height": 999.8583984375,
                     "op": "BO_Add",
@@ -6951,7 +6927,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_14.json",
                     "height": 999.9185180664062,
                     "op": "BO_Add",
@@ -7000,7 +6976,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_15.json",
                     "height": 999.8919067382812,
                     "op": "BO_Add",
@@ -7049,7 +7025,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_16.json",
                     "height": 999.9116821289062,
                     "op": "BO_Add",
@@ -7098,7 +7074,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_17.json",
                     "height": 999.9113159179688,
                     "op": "BO_Add",
@@ -7147,7 +7123,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_18.json",
                     "height": 999.8819580078125,
                     "op": "BO_Add",
@@ -7196,7 +7172,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_19.json",
                     "height": 999.885498046875,
                     "op": "BO_Add",
@@ -7245,7 +7221,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_structure_02.json",
                     "height": 999.958251953125,
                     "op": "BO_Add",
@@ -7294,7 +7270,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/moon/brushes/crater_01.json",
                     "height": 964.9222412109375,
                     "op": "BO_Subtract",
@@ -7343,7 +7319,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "height": -999.9403686523438,
                     "op": "BO_Add",
@@ -7392,7 +7368,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/mountain/brushes/mountain_pit_02.json",
                     "height": 988.8616333007812,
                     "op": "BO_Subtract",
@@ -7441,7 +7417,7 @@
                     "no_features": false
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_01.json",
                     "height": 995.9388427734375,
                     "op": "BO_Subtract",
@@ -7490,7 +7466,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_02.json",
                     "height": 999.918701171875,
                     "op": "BO_Subtract",
@@ -7539,7 +7515,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_03.json",
                     "height": 999.8692626953125,
                     "op": "BO_Subtract",
@@ -7588,7 +7564,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_04.json",
                     "height": 999.9044799804688,
                     "op": "BO_Subtract",
@@ -7637,7 +7613,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_11.json",
                     "height": 999.8914794921875,
                     "op": "BO_Subtract",
@@ -7686,7 +7662,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_11_sub.json",
                     "height": 999.8970947265625,
                     "op": "BO_Subtract",
@@ -7735,7 +7711,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_11_add.json",
                     "height": 999.8970947265625,
                     "op": "BO_Add",
@@ -7784,7 +7760,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_12_sub.json",
                     "height": 999.8865356445312,
                     "op": "BO_Subtract",
@@ -7833,7 +7809,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_12_add.json",
                     "height": 999.8865356445312,
                     "op": "BO_Add",
@@ -7882,7 +7858,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
                     "height": 999.8710327148438,
                     "op": "BO_Subtract",
@@ -7931,7 +7907,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_13_add.json",
                     "height": 999.8710327148438,
                     "op": "BO_Add",
@@ -7980,7 +7956,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
                     "height": 999.9173583984375,
                     "op": "BO_Subtract",
@@ -8029,7 +8005,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_trench_pit_add.json",
                     "height": 999.9173583984375,
                     "op": "BO_Add",
@@ -8078,7 +8054,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_crater_01.json",
                     "height": 999.9201049804688,
                     "op": "BO_Subtract",
@@ -8127,7 +8103,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_stripe_01.json",
                     "height": 999.8970336914062,
                     "op": "BO_Subtract",
@@ -8176,7 +8152,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_platform.json",
                     "height": 999.8275146484375,
                     "op": "BO_Add",
@@ -8225,7 +8201,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_01_sub.json",
                     "height": 999.9204711914062,
                     "op": "BO_Subtract",
@@ -8274,7 +8250,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_01_add.json",
                     "height": 999.9204711914062,
                     "op": "BO_Add",
@@ -8323,7 +8299,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_01_add.json",
                     "height": 999.9204711914062,
                     "op": "BO_Add",
@@ -8372,7 +8348,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_01_add.json",
                     "height": 999.9204711914062,
                     "op": "BO_Add",
@@ -8421,7 +8397,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_01_add.json",
                     "height": 999.9204711914062,
                     "op": "BO_Add",
@@ -8470,7 +8446,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_01_add.json",
                     "height": 999.9204711914062,
                     "op": "BO_Add",
@@ -8519,7 +8495,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_02_sub.json",
                     "height": 999.86962890625,
                     "op": "BO_Subtract",
@@ -8568,7 +8544,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_02_add.json",
                     "height": 999.86962890625,
                     "op": "BO_Add",
@@ -8617,7 +8593,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_02_add.json",
                     "height": 999.86962890625,
                     "op": "BO_Add",
@@ -8666,7 +8642,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_02_add.json",
                     "height": 999.86962890625,
                     "op": "BO_Add",
@@ -8715,7 +8691,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_02_add.json",
                     "height": 999.86962890625,
                     "op": "BO_Add",
@@ -8764,7 +8740,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_03_sub.json",
                     "height": 999.9166259765625,
                     "op": "BO_Subtract",
@@ -8813,7 +8789,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "height": 999.9166259765625,
                     "op": "BO_Add",
@@ -8862,7 +8838,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "height": 999.9166259765625,
                     "op": "BO_Add",
@@ -8911,7 +8887,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "height": 999.9166259765625,
                     "op": "BO_Add",
@@ -8960,7 +8936,7 @@
                     "no_features": true
                 },
                 {
-                    "proj": "BP_Bend",
+                    "proj": "BP_None",
                     "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "height": 999.9166259765625,
                     "op": "BO_Add",
@@ -9110,6 +9086,26 @@
                         "max": 10
                     }
                 ]
+            },
+            "planet": {
+                "seed": 434323968,
+                "radius": 1000,
+                "heightRange": 0,
+                "waterHeight": 0,
+                "waterDepth": 100,
+                "temperature": 50,
+                "metalDensity": 0,
+                "metalClusters": 0,
+                "metalSpotLimit": -1,
+                "biomeScale": 50,
+                "biome": "csg_debug",
+                "symmetryType": "none",
+                "symmetricalMetal": false,
+                "symmetricalStarts": false,
+                "numArmies": 2,
+                "landingZonesPerArmy": 0,
+                "landingZoneSize": 0,
+                "heightAdjustments": []
             }
         }
     ]

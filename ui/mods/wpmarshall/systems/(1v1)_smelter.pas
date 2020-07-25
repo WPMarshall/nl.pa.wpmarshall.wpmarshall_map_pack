@@ -3,7 +3,8 @@
 	"creator": "WPMarshall",
 	"version": "1.5",
 	"date": "2016/10/05",
-	"description": "(1v1) Be ready for a fast paced game on this planet. WIth many angles to attack your opponent from, while also providing expansions to defend, this map should suit all skill levels.",	"players": [
+	"description": "(1v1) Be ready for a fast paced game on this planet. WIth many angles to attack your opponent from, while also providing expansions to defend, this map should suit all skill levels.",	
+	"players": [
         2,
         4
     ],	
