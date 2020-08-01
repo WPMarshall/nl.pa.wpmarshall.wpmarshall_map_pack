@@ -6,7 +6,7 @@
 	"description": "Requires 'Hidden Biomes'. Save this as a TEMPLATE. Then place the planet in another system and copy-paste CSG across using CSG_Edit mode within ADVANCED EDIT",
     "planets": [
         {
-            "name": "Palette Planet",
+            "name": "Palette Planet (NoProjection)",
             "mass": 35000,
             "position_x": 27500,
             "position_y": 100,
