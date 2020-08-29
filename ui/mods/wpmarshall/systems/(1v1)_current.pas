@@ -1,22 +1,43 @@
 {
     "name": "Current (1v1)",
-    "description": "(1v1 | 2v2 SHARED) Orbital system with naval start also featuring a gas giant!",
     "creator": "WPMarshall",
-    "version": "1.1.0",
+    "version": "1.1.1",
+	"date": "2020/08/29",
+	"description": "(1v1 | 2v2 SHARED) Orbital system with a naval start also featuring a gas giant!",
     "planets": [
         {
             "name": "Current",
             "mass": 10000,
             "position_x": 20000,
-            "position_y": 0,
-            "velocity_x": 0.00009414918895345181,
-            "velocity_y": 365.02813720703125,
+            "position_y": 7000,
+            "velocity_x": -188.9822235107422,
+            "velocity_y": 158.1138153076172,
             "required_thrust_to_move": 2,
             "starting_planet": true,
             "respawn": false,
             "start_destroyed": false,
             "min_spawn_delay": 0,
             "max_spawn_delay": 0,
+            "planet": {
+                "seed": 952545152,
+                "radius": 500,
+                "heightRange": 35,
+                "waterHeight": 59.000003814697266,
+                "waterDepth": 100,
+                "temperature": 80,
+                "metalDensity": 0,
+                "metalClusters": 0,
+                "metalSpotLimit": -1,
+                "biomeScale": 50,
+                "biome": "tropical",
+                "symmetryType": "terrain and CSG",
+                "symmetricalMetal": true,
+                "symmetricalStarts": true,
+                "numArmies": 2,
+                "landingZonesPerArmy": 0,
+                "landingZoneSize": 80,
+                "heightAdjustments": []
+            },
             "planetCSG": [
                 {
                     "spec": "/pa/terrain/mountain/brushes/mountain_mountain_04.json",
@@ -768,16 +789,6 @@
                     -221.86581420898438
                 ],
                 [
-                    159.30010986328125,
-                    430.5386962890625,
-                    230.25198364257812
-                ],
-                [
-                    159.30010986328125,
-                    430.5386962890625,
-                    -230.25198364257812
-                ],
-                [
                     -135.2474365234375,
                     441.89874267578125,
                     223.26593017578125
@@ -786,16 +797,6 @@
                     -135.2474365234375,
                     441.89874267578125,
                     -223.26593017578125
-                ],
-                [
-                    23.69891929626465,
-                    458.0145263671875,
-                    230.1650390625
-                ],
-                [
-                    23.69891929626465,
-                    458.0145263671875,
-                    -230.1650390625
                 ],
                 [
                     204.88043212890625,
@@ -836,26 +837,6 @@
                     285.24658203125,
                     99.43801879882812,
                     -388.26141357421875
-                ],
-                [
-                    -374.50665283203125,
-                    82.80291748046875,
-                    307.7476806640625
-                ],
-                [
-                    -374.50665283203125,
-                    82.80291748046875,
-                    -307.7476806640625
-                ],
-                [
-                    -442.9051513671875,
-                    87.384765625,
-                    195.1124267578125
-                ],
-                [
-                    -442.9051513671875,
-                    87.384765625,
-                    -195.1124267578125
                 ],
                 [
                     285.2450866699219,
@@ -918,16 +899,6 @@
                     -174.6942138671875
                 ],
                 [
-                    -284.9246826171875,
-                    114.0531005859375,
-                    384.34429931640625
-                ],
-                [
-                    -284.9246826171875,
-                    114.0531005859375,
-                    -384.34429931640625
-                ],
-                [
                     4.999641418457031,
                     180.51806640625,
                     463.64813232421875
@@ -966,6 +937,46 @@
                     -435.3278503417969,
                     -215.33477783203125,
                     -188.4258270263672
+                ],
+                [
+                    -242.05853271484375,
+                    135.69601440429688,
+                    406.07781982421875
+                ],
+                [
+                    -242.05853271484375,
+                    135.69601440429688,
+                    -406.07781982421875
+                ],
+                [
+                    -325.95355224609375,
+                    105.1646728515625,
+                    352.882080078125
+                ],
+                [
+                    -325.95355224609375,
+                    105.1646728515625,
+                    -352.882080078125
+                ],
+                [
+                    -393.9107971191406,
+                    90.65835571289062,
+                    280.07281494140625
+                ],
+                [
+                    -393.9107971191406,
+                    90.65835571289062,
+                    -280.07281494140625
+                ],
+                [
+                    92.64717864990234,
+                    449.3758850097656,
+                    230.10125732421875
+                ],
+                [
+                    92.64717864990234,
+                    449.3758850097656,
+                    -230.10125732421875
                 ]
             ],
             "landing_zones": {
@@ -991,52 +1002,52 @@
                         "max": 10
                     }
                 ]
-            },
-            "planet": {
-                "seed": 952545152,
-                "radius": 500,
-                "heightRange": 35,
-                "waterHeight": 59.000003814697266,
-                "waterDepth": 100,
-                "temperature": 80,
-                "metalDensity": 0,
-                "metalClusters": 0,
-                "metalSpotLimit": -1,
-                "biomeScale": 50,
-                "biome": "tropical",
-                "symmetryType": "terrain and CSG",
-                "symmetricalMetal": true,
-                "symmetricalStarts": true,
-                "numArmies": 2,
-                "landingZonesPerArmy": 0,
-                "landingZoneSize": 80,
-                "heightAdjustments": []
             }
         },
         {
             "name": "Zapper",
             "mass": 35000,
-            "position_x": 16000,
-            "position_y": -0.00003980216570198536,
-            "velocity_x": -0.000026269473892170936,
-            "velocity_y": -25.245315551757812,
-            "required_thrust_to_move": 3,
+            "position_x": 20000,
+            "position_y": -5000,
+            "velocity_x": -223.6068115234375,
+            "velocity_y": 158.11395263671875,
+            "required_thrust_to_move": 2,
             "starting_planet": false,
             "respawn": false,
             "start_destroyed": false,
             "min_spawn_delay": 0,
             "max_spawn_delay": 0,
+            "planet": {
+                "seed": 1124377088,
+                "radius": 550,
+                "heightRange": 0,
+                "waterHeight": 0,
+                "waterDepth": 100,
+                "temperature": 50,
+                "metalDensity": 0,
+                "metalClusters": 0,
+                "metalSpotLimit": -1,
+                "biomeScale": 50,
+                "biome": "lava",
+                "symmetryType": "terrain and CSG",
+                "symmetricalMetal": true,
+                "symmetricalStarts": false,
+                "numArmies": 2,
+                "landingZonesPerArmy": 0,
+                "landingZoneSize": 0,
+                "heightAdjustments": []
+            },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
+                    "height": 549.7212524414062,
                     "op": "BO_Subtract",
                     "position": [
                         550,
                         0,
                         0
                     ],
-                    "height": 549.7212524414062,
                     "transform": [
                         -2.3448616366748137e-14,
                         5.364418029785156e-7,
@@ -1071,21 +1082,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
                     "proj": "BP_Longitude",
+                    "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
+                    "height": 548.7477416992188,
                     "op": "BO_Subtract",
                     "position": [
                         -387.703369140625,
                         2.118316650390625,
                         388.3370361328125
                     ],
-                    "height": 548.7477416992188,
                     "transform": [
                         0.013768416829407215,
                         -1.783323884010315,
@@ -1120,21 +1131,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
                     "proj": "BP_Longitude",
+                    "spec": "/pa/terrain/metal/brushes/metal_trench_13_sub.json",
+                    "height": 548.7477416992188,
                     "op": "BO_Subtract",
                     "position": [
                         -387.703369140625,
                         2.118316650390625,
                         -388.3370361328125
                     ],
-                    "height": 548.7477416992188,
                     "transform": [
                         0.013768509961664677,
                         1.7833226919174194,
@@ -1169,21 +1180,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_sub.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_sub.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Subtract",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         0.02031070739030838,
                         0.9999139904975891,
@@ -1218,21 +1229,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         0.02031070739030838,
                         0.9999139904975891,
@@ -1267,21 +1278,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         0.9999139904975891,
                         -0.020310668274760246,
@@ -1316,21 +1327,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         -0.020310675725340843,
                         -0.9999139904975891,
@@ -1365,21 +1376,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         -0.9999139904975891,
                         0.020310599356889725,
@@ -1414,21 +1425,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_sub.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_sub.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Subtract",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         -476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         0.020310625433921814,
                         -0.9999138712882996,
@@ -1463,21 +1474,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         -476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         0.020310625433921814,
                         -0.9999138712882996,
@@ -1512,21 +1523,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         -476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         -0.9999138712882996,
                         -0.020310664549469948,
@@ -1561,21 +1572,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         -476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         -0.0203106589615345,
                         0.9999138712882996,
@@ -1610,21 +1621,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_cap_03_add.json",
+                    "height": 552.4788208007812,
                     "op": "BO_Add",
                     "position": [
                         279.89373779296875,
                         4.901466369628906,
                         -476.3070068359375
                     ],
-                    "height": 552.4788208007812,
                     "transform": [
                         0.9999138712882996,
                         0.02031073346734047,
@@ -1659,21 +1670,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": false,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
+                    "height": 548.7828369140625,
                     "op": "BO_Add",
                     "position": [
                         -228.60107421875,
                         -314.2288818359375,
                         387.510498046875
                     ],
-                    "height": 548.7828369140625,
                     "transform": [
                         0.9135177135467529,
                         -1.860602617263794,
@@ -1708,21 +1719,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
+                    "height": 548.7828369140625,
                     "op": "BO_Add",
                     "position": [
                         -228.60107421875,
                         -314.2288818359375,
                         387.510498046875
                     ],
-                    "height": 548.7828369140625,
                     "transform": [
                         0.9135177135467529,
                         -1.860602617263794,
@@ -1757,21 +1768,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
+                    "height": 548.7229614257812,
                     "op": "BO_Add",
                     "position": [
                         -224.1016845703125,
                         310.1875,
                         393.26715087890625
                     ],
-                    "height": 548.7229614257812,
                     "transform": [
                         1.0752323865890503,
                         1.781909465789795,
@@ -1806,21 +1817,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_12.json",
+                    "height": 548.7229614257812,
                     "op": "BO_Add",
                     "position": [
                         -224.1016845703125,
                         310.1875,
                         393.26715087890625
                     ],
-                    "height": 548.7229614257812,
                     "transform": [
                         1.0752323865890503,
                         1.781909465789795,
@@ -1855,21 +1866,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_3_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_3_ramp.json",
+                    "height": 553.0574951171875,
                     "op": "BO_Add",
                     "position": [
                         519.0054321289062,
                         0,
                         191.06350708007812
                     ],
-                    "height": 553.0574951171875,
                     "transform": [
                         0.0005578082636930048,
                         0.34546753764152527,
@@ -1904,21 +1915,21 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_3_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_3_ramp.json",
+                    "height": 553.0574951171875,
                     "op": "BO_Add",
                     "position": [
                         519.0054321289062,
                         0,
                         191.06350708007812
                     ],
-                    "height": 553.0574951171875,
                     "transform": [
                         0.0005578082636930048,
                         0.34546753764152527,
@@ -1953,21 +1964,21 @@
                     ],
                     "mirrored": true,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t3_medium_2_ramp.json",
                     "proj": "BP_Bend",
+                    "spec": "/pa/terrain/metal/brushes/metal_t3_medium_2_ramp.json",
+                    "height": 553.0946044921875,
                     "op": "BO_Add",
                     "position": [
                         553.093505859375,
                         0,
                         0
                     ],
-                    "height": 553.0946044921875,
                     "transform": [
                         9.099446890425966e-12,
                         5.960464477539063e-8,
@@ -2002,8 +2013,8 @@
                     ],
                     "mirrored": false,
                     "twinId": 0,
-                    "flooded": false,
                     "pathable": true,
+                    "flooded": false,
                     "mergeable": false,
                     "no_features": true
                 }
@@ -2283,19 +2294,33 @@
             "landing_zones": {
                 "list": [],
                 "rules": []
-            },
+            }
+        },
+        {
+            "name": "Res",
+            "mass": 10000,
+            "position_x": 20000,
+            "position_y": 5000,
+            "velocity_x": 223.60679626464844,
+            "velocity_y": 158.1139678955078,
+            "required_thrust_to_move": 2,
+            "starting_planet": false,
+            "respawn": false,
+            "start_destroyed": false,
+            "min_spawn_delay": 0,
+            "max_spawn_delay": 0,
             "planet": {
-                "seed": 1124377088,
-                "radius": 550,
-                "heightRange": 0,
-                "waterHeight": 0,
+                "seed": 249002880,
+                "radius": 400,
+                "heightRange": 35,
+                "waterHeight": 38,
                 "waterDepth": 100,
-                "temperature": 50,
+                "temperature": 100,
                 "metalDensity": 0,
                 "metalClusters": 0,
                 "metalSpotLimit": -1,
-                "biomeScale": 50,
-                "biome": "lava",
+                "biomeScale": 75.00000006869588,
+                "biome": "desert",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
                 "symmetricalStarts": false,
@@ -2303,21 +2328,7 @@
                 "landingZonesPerArmy": 0,
                 "landingZoneSize": 0,
                 "heightAdjustments": []
-            }
-        },
-        {
-            "name": "Res",
-            "mass": 10000,
-            "position_x": 34000,
-            "position_y": -0.0008266071090474725,
-            "velocity_x": -0.000026269473892170936,
-            "velocity_y": 308.0880126953125,
-            "required_thrust_to_move": 2,
-            "starting_planet": false,
-            "respawn": false,
-            "start_destroyed": false,
-            "min_spawn_delay": 0,
-            "max_spawn_delay": 0,
+            },
             "planetCSG": [
                 {
                     "spec": "/pa/terrain/desert/brushes/desert_plateau_11.json",
@@ -3116,18 +3127,18 @@
                     -214.7222137451172
                 ],
                 [
-                    -108.87881469726562,
+                    -108.87879943847656,
                     -329.0135498046875,
                     204.85789489746094
                 ],
                 [
                     -108.85920715332031,
                     -328.95428466796875,
-                    -204.82101440429688
+                    -204.82102966308594
                 ],
                 [
                     -63.331947326660156,
-                    -315.5649108886719,
+                    -315.56494140625,
                     239.16250610351562
                 ],
                 [
@@ -3142,12 +3153,12 @@
                 ],
                 [
                     140.12734985351562,
-                    29.63860321044922,
+                    29.638601303100586,
                     -379.4297180175781
                 ],
                 [
                     88.27572631835938,
-                    195.1830596923828,
+                    195.18304443359375,
                     347.35107421875
                 ],
                 [
@@ -3156,14 +3167,14 @@
                     -347.4358215332031
                 ],
                 [
-                    -105.35214233398438,
-                    78.93744659423828,
+                    -105.35213470458984,
+                    78.93743896484375,
                     387.70001220703125
                 ],
                 [
-                    -105.35314178466797,
+                    -105.3531494140625,
                     78.93818664550781,
-                    -387.7036437988281
+                    -387.70367431640625
                 ],
                 [
                     -23.67998695373535,
@@ -3177,22 +3188,22 @@
                 ],
                 [
                     -424.63238525390625,
-                    7.84769344329834,
+                    7.847692966461182,
                     34.35031509399414
                 ],
                 [
                     -424.6749267578125,
-                    7.848479747772217,
-                    -34.353755950927734
+                    7.8484787940979,
+                    -34.35375213623047
                 ],
                 [
                     -414.1960754394531,
-                    -78.3952407836914,
+                    -78.39523315429688,
                     66.6513442993164
                 ],
                 [
                     -414.2049560546875,
-                    -78.39691925048828,
+                    -78.39691162109375,
                     -66.65277099609375
                 ],
                 [
@@ -3227,33 +3238,33 @@
                 ],
                 [
                     383.3238220214844,
-                    83.93521881103516,
+                    83.93521118164062,
                     124.10419464111328
                 ],
                 [
                     383.40997314453125,
                     83.95408630371094,
-                    -124.13208770751953
+                    -124.13209533691406
                 ],
                 [
-                    400.81988525390625,
+                    400.8199157714844,
                     -18.176502227783203,
-                    51.181427001953125
+                    51.18143081665039
                 ],
                 [
                     400.84423828125,
                     -18.17760467529297,
-                    -51.184532165527344
+                    -51.18452835083008
                 ],
                 [
                     358.616455078125,
                     199.66107177734375,
-                    37.27384567260742
+                    37.273841857910156
                 ],
                 [
                     358.737548828125,
-                    199.72848510742188,
-                    -37.286434173583984
+                    199.7284698486328,
+                    -37.28643035888672
                 ],
                 [
                     -275.5987548828125,
@@ -3262,13 +3273,13 @@
                 ],
                 [
                     -275.7889099121094,
-                    285.9555358886719,
+                    285.95550537109375,
                     -76.53401184082031
                 ],
                 [
                     -182.36605834960938,
                     349.4237976074219,
-                    84.77281951904297
+                    84.77281188964844
                 ],
                 [
                     -182.36492919921875,
@@ -3283,7 +3294,7 @@
                 [
                     -315.17047119140625,
                     130.35870361328125,
-                    -220.5000457763672
+                    -220.50003051757812
                 ],
                 [
                     -114.8475341796875,
@@ -3317,8 +3328,8 @@
                 ],
                 [
                     302.49676513671875,
-                    65.56498718261719,
-                    269.84722900390625
+                    65.56499481201172,
+                    269.8472595214844
                 ],
                 [
                     302.49658203125,
@@ -3328,7 +3339,7 @@
                 [
                     210.53854370117188,
                     267.7862854003906,
-                    230.22805786132812
+                    230.22804260253906
                 ],
                 [
                     210.53245544433594,
@@ -3336,7 +3347,7 @@
                     -230.2213897705078
                 ],
                 [
-                    7.9918212890625,
+                    7.991821765899658,
                     328.5113220214844,
                     241.55160522460938
                 ],
@@ -3353,41 +3364,21 @@
                 [
                     113.69157409667969,
                     364.772216796875,
-                    -83.64733123779297
+                    -83.6473388671875
                 ]
             ],
             "landing_zones": {
                 "list": [],
                 "rules": []
-            },
-            "planet": {
-                "seed": 249002880,
-                "radius": 400,
-                "heightRange": 35,
-                "waterHeight": 38,
-                "waterDepth": 100,
-                "temperature": 100,
-                "metalDensity": 0,
-                "metalClusters": 0,
-                "metalSpotLimit": -1,
-                "biomeScale": 75.00000006869588,
-                "biome": "desert",
-                "symmetryType": "terrain and CSG",
-                "symmetricalMetal": true,
-                "symmetricalStarts": false,
-                "numArmies": 2,
-                "landingZonesPerArmy": 0,
-                "landingZoneSize": 0,
-                "heightAdjustments": []
             }
         },
         {
-            "name": "Level-1051916518",
+            "name": "Central Current",
             "mass": 50000,
-            "position_x": 25000,
-            "position_y": -0.002185569377616048,
-            "velocity_x": 0.000006181722710607573,
-            "velocity_y": 141.42135620117188,
+            "position_x": 20000.001953125,
+            "position_y": -0.0006357302190735936,
+            "velocity_x": -0.00000188548881396855,
+            "velocity_y": 158.11387634277344,
             "required_thrust_to_move": 0,
             "starting_planet": false,
             "respawn": false,
@@ -3396,7 +3387,7 @@
             "max_spawn_delay": 0,
             "planet": {
                 "seed": 836560704,
-                "radius": 1000,
+                "radius": 600,
                 "heightRange": 0,
                 "waterHeight": 0,
                 "waterDepth": 100,
