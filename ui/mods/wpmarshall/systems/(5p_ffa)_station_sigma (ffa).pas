@@ -1,7 +1,7 @@
 {
     "name": "Station Sigma (5P FFA)",
 	"creator": "WPMarshall",
-    "version": "1",
+    "version": "2",
     "date": "2016/07/02",
     "description": "(5P FFA) Equatorial spawns challenge players to contest both north and south expansions and approaches to their base. Do not forget that you can move your base if need be as there is an abundance of metal at the poles!",
     "players": [
@@ -3822,55 +3822,6 @@
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        0.6599841117858887,
-                        0.0003804179432336241,
-                        0.00038110074819996953,
-                        0.44880411028862,
-                        0.0003804179432336241,
-                        0.0011836844496428967,
-                        -0.6599831581115723,
-                        -777.2305297851562,
-                        -0.00038110074819996953,
-                        0.6599831581115723,
-                        0.0011834483593702316,
-                        1.3936904668807983
-                    ],
-                    "op": "BO_Subtract",
-                    "rotation": 0,
-                    "scale": [
-                        0.6599843502044678,
-                        0.6599843502044678,
-                        0.6599843502044678
-                    ],
-                    "height": 777.23193359375,
-                    "position": [
-                        0.4332308769226074,
-                        -750.2611083984375,
-                        1.3454113006591797
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
                     "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
                     "transform": [
@@ -3997,55 +3948,6 @@
                         713.2923583984375,
                         -231.7627410888672,
                         0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        0.20358452200889587,
-                        -0.001008257269859314,
-                        0.6277990937232971,
-                        739.3289184570312,
-                        0.6277998089790344,
-                        0.0007275640964508057,
-                        -0.20358358323574066,
-                        -239.75064086914062,
-                        -0.00038108229637145996,
-                        0.6599832773208618,
-                        0.0011835270561277866,
-                        1.3937830924987793
-                    ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.2566370964050293,
-                    "scale": [
-                        0.6599843502044678,
-                        0.6599843502044678,
-                        0.6599843502044678
-                    ],
-                    "height": 777.23193359375,
-                    "position": [
-                        713.6746215820312,
-                        -231.43141174316406,
-                        1.3454113006591797
                     ],
                     "weightHard": false,
                     "weightScale": [
@@ -4214,55 +4116,6 @@
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.5341619849205017,
-                        -0.0010034739971160889,
-                        0.38762009143829346,
-                        456.4815979003906,
-                        0.3876211643218994,
-                        -0.0007340610027313232,
-                        0.5341616272926331,
-                        629.0565795898438,
-                        -0.00038102269172668457,
-                        0.659983217716217,
-                        0.0011834483593702316,
-                        1.3936904668807983
-                    ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.5132741928100586,
-                    "scale": [
-                        0.6599843502044678,
-                        0.6599843502044678,
-                        0.6599843502044678
-                    ],
-                    "height": 777.23193359375,
-                    "position": [
-                        440.6419372558594,
-                        607.2286376953125,
-                        1.3454113006591797
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
                     "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
                     "transform": [
@@ -4410,55 +4263,6 @@
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        -0.5337148308753967,
-                        0.00038805603981018066,
-                        -0.38823673129081726,
-                        -457.2077941894531,
-                        -0.3882367014884949,
-                        -0.0011811107397079468,
-                        0.533713698387146,
-                        628.529052734375,
-                        -0.0003809928894042969,
-                        0.6599832773208618,
-                        0.0011833696626126766,
-                        1.3935978412628174
-                    ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.769911289215088,
-                    "scale": [
-                        0.6599843502044678,
-                        0.6599843502044678,
-                        0.6599843502044678
-                    ],
-                    "height": 777.23193359375,
-                    "position": [
-                        -441.3428955078125,
-                        606.7193603515625,
-                        1.3454113006591797
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
                     "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
                     "transform": [
@@ -4585,55 +4389,6 @@
                         -713.2923583984375,
                         -231.7627410888672,
                         0
-                    ],
-                    "weightHard": false,
-                    "weightScale": [
-                        1,
-                        1,
-                        1
-                    ],
-                    "mirrored": false,
-                    "twinId": 0,
-                    "flooded": false,
-                    "pathable": true,
-                    "mergeable": false,
-                    "no_features": true
-                },
-                {
-                    "weight": [
-                        1,
-                        1,
-                        1,
-                        1
-                    ],
-                    "spec": "/pa/terrain/metal/brushes/metal_trench_pit_sub.json",
-                    "proj": "BP_Bend",
-                    "transform": [
-                        0.20430810749530792,
-                        0.0012432411313056946,
-                        -0.6275636553764343,
-                        -739.0516357421875,
-                        -0.6275646686553955,
-                        0.0000040531158447265625,
-                        -0.20430849492549896,
-                        -240.6043243408203,
-                        -0.0003810077905654907,
-                        0.6599832773208618,
-                        0.0011834483593702316,
-                        1.3936904668807983
-                    ],
-                    "op": "BO_Subtract",
-                    "rotation": 5.026548385620117,
-                    "scale": [
-                        0.6599843502044678,
-                        0.6599843502044678,
-                        0.6599843502044678
-                    ],
-                    "height": 777.23193359375,
-                    "position": [
-                        -713.4068603515625,
-                        -232.25546264648438,
-                        1.3454113006591797
                     ],
                     "weightHard": false,
                     "weightScale": [
@@ -9818,24 +9573,24 @@
                 ],
                 "rules": [
                     {
-                        "min": 0,
-                        "max": 10
+                        "min": 5,
+                        "max": 5
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "min": 5,
+                        "max": 5
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "min": 5,
+                        "max": 5
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "min": 5,
+                        "max": 5
                     },
                     {
-                        "min": 0,
-                        "max": 10
+                        "min": 5,
+                        "max": 5
                     }
                 ]
             }
