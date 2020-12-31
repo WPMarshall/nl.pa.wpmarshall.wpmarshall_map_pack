@@ -38,6 +38,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_paf_5pffa.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_paf_6pffa.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_hollow_lanes.pas",
+	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
 	"coui://ui/mods/wpmarshall/systems/(7p_ffa)_the_sift.pas",	
 	"coui://ui/mods/wpmarshall/systems/(8p_ffa)_realm_battlegrounds.pas",
 	"coui://ui/mods/wpmarshall/systems/(15p_ffa)_cosmic_chaos (15 players max).pas",
