@@ -57,6 +57,7 @@ cShareSystems.load_pas("HEMISPHERIC", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_shoreline.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2)_fields_of isis.pas",
+	"coui://ui/mods/wpmarshall/systems/HEM_(4v4)_corvana_chasm.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(4p_ffa)_four_corners.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(5p_ffa)_five-leaf_clover.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(5p_ffa)_doomball.pas",
