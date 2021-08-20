@@ -12,6 +12,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_boading.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cauldron.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_monsoon.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_monster_le.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_current.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_ubersdkhto.pas",
 	"coui://ui/mods/wpmarshall/systems/(2v2)_conductor.pas",
@@ -48,6 +49,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_diskus_(ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_cubic_combat.pas",
 	"coui://ui/mods/wpmarshall/systems/(5v5)_world_of tomorrow 2.1.0.pas",
+	"coui://ui/mods/wpmarshall/systems/(Up to 10P)_monster.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 	
