@@ -1,11 +1,11 @@
 {
-    "name": "Marshall's Lament (Titans) (5v5)",
+    "name": "Marshall's Lament (Titans) (5v5 / 16P FFA)",
 	"creator": "WPMarshall",
-	"version": "3",
+	"version": "3.5.0",
 	"date": "2016/04/14",
 	"description": "Suitable for shared and unshared team games, this version of Marshall's Lament re-designs the planets to provide clear spawns and different terrain. The central point is as important as ever, but there is now an added element of claiming empty spawn locations early in the game! ",	"players": [
-        6,
-        10    ],	
+        2,
+        16    ],	
   "planets": [
         {
             "name": "Central Point",
@@ -10874,35 +10874,35 @@
                 "rules": [
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     }
                 ]
             }
@@ -18631,35 +18631,35 @@
                 "rules": [
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     },
                     {
                         "min": 0,
-                        "max": 10
+                        "max": 16
                     }
                 ]
             }
