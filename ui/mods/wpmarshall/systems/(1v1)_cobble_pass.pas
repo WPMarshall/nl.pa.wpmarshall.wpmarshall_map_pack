@@ -1,5 +1,5 @@
 {
-    "name": "Cobble Pass (1v1)",
+    "name": "Cobble Pass (1v1, 2v2)",
     "description": "Interesting map with high and low ground, best for 1v1 or 2v2.",
     "creator": "WPMarshall",
     "version": "1.0.0",
@@ -32,7 +32,7 @@
                 "biome": "desert",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
-                "symmetricalStarts": true,
+                "symmetricalStarts": false,
                 "numArmies": 2,
                 "landingZonesPerArmy": 0,
                 "landingZoneSize": 0,
