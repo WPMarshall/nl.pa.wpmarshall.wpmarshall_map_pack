@@ -1,10 +1,10 @@
 {
   "context": "client",
-  "identifier": "nl.pa.wpmarshall.wpmarshall_map_pack-Release",
+  "identifier": "nl.pa.wpmarshall.wpmarshall_map_pack",
   "display_name": "WPMarshall's Map Pack",
   "description": "A map pack containing a variety of maps including Ablegamers Systems, 15P FFA Cosmic Chaos, Seton's Clutch, HEMISPHERIC maps, and the Geography Palette. Also includes a selection of PA's RANKED MAPs made compatible for multiplayer beyond 1v1!",
   "author": "wpmarshall",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "build": "112314",
   "date": "2021/10/29",
   "signature": "not yet implemented",
