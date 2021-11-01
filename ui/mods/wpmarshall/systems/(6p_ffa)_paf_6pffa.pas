@@ -1,7 +1,7 @@
 {
     "name": "PAF (6P FFA)",
     "description": "6p FFA system. Ablegamers 2020 Qualifier - 1 large planet where all the players spawn on.  After ~7 minutes, 2 new planets will appear followed by 2 asteroids (starting at ~18 minutes).",
-    "version": "1.0",
+    "version": "1.1",
     "creator": "Grand Homie, Published by WPMarshall",
     "players": [
         2,
@@ -25,7 +25,7 @@
                 "seed": 820658304,
                 "radius": 650,
                 "heightRange": 0,
-                "waterHeight": 0,
+                "waterHeight": 20,
                 "waterDepth": 100,
                 "temperature": 0,
                 "metalDensity": 50,
@@ -7184,7 +7184,7 @@
                 "metalClusters": 50,
                 "metalSpotLimit": -1,
                 "biomeScale": 50,
-                "biome": "arctic",
+                "biome": "earth",
                 "symmetryType": "terrain and CSG",
                 "symmetricalMetal": true,
                 "symmetricalStarts": false,
