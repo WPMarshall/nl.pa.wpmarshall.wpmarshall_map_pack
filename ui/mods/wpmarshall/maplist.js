@@ -9,6 +9,8 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_solitude.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_finn's_resurgence.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2)_fields_of isis.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_rock pit",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_boading.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cauldron.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_monsoon.pas",
@@ -18,6 +20,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_ubersdkhto.pas",
 	"coui://ui/mods/wpmarshall/systems/(2v2)_conductor.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
+	"coui://ui/mods/wpmarshall/systems/(2shared)_calamity_falls",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_outlier.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_shipyards.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_snowball.pas",
@@ -55,7 +58,7 @@ cShareSystems.load_pas("WPMarshall", [
 	"coui://ui/mods/wpmarshall/systems/(Up to 10P)_monster.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
-	
+
 ]);
 cShareSystems.load_pas("HEMISPHERIC", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_finn's_resurgence.pas",
