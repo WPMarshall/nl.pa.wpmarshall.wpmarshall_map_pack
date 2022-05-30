@@ -1,5 +1,5 @@
 {
-    "name": "Outlier (2v2, 3v3, 4v4, 2 SHARED Teams)",
+    "name": "Outlier - Shared",
     "creator": "WPMarshall",
     "version": "1",
     "date": "2016/07/17",

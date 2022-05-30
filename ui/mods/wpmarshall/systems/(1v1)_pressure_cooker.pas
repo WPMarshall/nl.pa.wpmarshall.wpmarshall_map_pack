@@ -1,5 +1,5 @@
 {
-    "name": "Pressure Cooker (1v1)",
+    "name": "Pressure Cooker",
 	"creator": "WPMarshall",
     "version": "1.1",
     "date": "2016/09/17",

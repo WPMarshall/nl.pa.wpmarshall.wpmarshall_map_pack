@@ -1,5 +1,5 @@
 {
-    "name": "Diskus (4P FFA)",
+    "name": "Diskus (4P)",
 	
 "creator": "WPMarshall", 	"version": "1", "date": "2016/04/28",	"description": "(FFA) This version of Diskus spawns players on the central disk leaving them to work outward across the structured paths in order to reach their opponents by land. Watch out for artillery, so do not rely solely on your starting area!",    "players": [        4,        8],    "planets": [
         {

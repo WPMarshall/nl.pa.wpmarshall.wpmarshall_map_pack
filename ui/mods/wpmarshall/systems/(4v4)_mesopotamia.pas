@@ -1,5 +1,5 @@
 {
-    "name": "Mesopotamia (4v4)",
+    "name": "Mesopotamia (4v4) - Shared",
     "description": "Large map best suited for 4v4 games! Support your team mates!",
     "creator": "WPMarshall",
     "version": "1.0.0",

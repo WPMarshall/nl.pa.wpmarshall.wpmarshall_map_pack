@@ -1,5 +1,5 @@
 {
-    "name": "Four Corners (4P FFA)",
+    "name": "Four Corners (4P)",
 	"creator": "WPMarshall",
 	"version": "2",
 	"date": "2020/05/10",

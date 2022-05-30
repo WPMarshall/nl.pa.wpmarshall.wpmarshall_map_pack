@@ -1,6 +1,6 @@
 {
-    "name": "Calamity Falls (2v2 Shared | Unshared)",
-    "description": "",
+    "name": "Calamity Falls",
+    "description": "Supports 2v2 Shared OR unshared",
     "creator": "WPMarshall",
     "version": "1.0.0",
     "planets": [

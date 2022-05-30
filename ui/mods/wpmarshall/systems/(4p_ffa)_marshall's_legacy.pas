@@ -1,5 +1,5 @@
 {
-    "name": "Marshall's Legacy (4P FFA)",
+    "name": "Marshall's Legacy (4P)",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2018/11/24",

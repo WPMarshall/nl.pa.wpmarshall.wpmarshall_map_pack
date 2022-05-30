@@ -1,5 +1,5 @@
 {
-    "name": "Dark Heart (6P FFA, 2v2v2)",
+    "name": "Dark Heart (2v2v2, 6P)",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2020/05/10",

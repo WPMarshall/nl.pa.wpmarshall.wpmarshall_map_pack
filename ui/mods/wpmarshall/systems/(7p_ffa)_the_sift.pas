@@ -1,5 +1,5 @@
 {
-    "name": "The Sift (7P FFA)",
+    "name": "The Sift (7P)",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2018/11/18",

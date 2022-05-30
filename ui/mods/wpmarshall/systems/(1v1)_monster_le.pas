@@ -1,5 +1,5 @@
 {
-    "name": "Monster_LE",
+    "name": "Monster_LE - Shared",
     "description": "The Ranked Map that never was! | Use this version of monster for 1v1 or 2 Shared Teams",
     "creator": "WPMarshall",
     "version": "1.1.0",

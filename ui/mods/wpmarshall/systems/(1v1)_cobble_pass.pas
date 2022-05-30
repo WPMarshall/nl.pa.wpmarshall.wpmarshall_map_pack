@@ -1,5 +1,5 @@
 {
-    "name": "Cobble Pass (1v1, 2v2)",
+    "name": "Cobble Pass",
     "description": "Interesting map with high and low ground, best for 1v1 or 2v2.",
     "creator": "WPMarshall",
     "version": "1.0.1",

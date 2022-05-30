@@ -1,9 +1,9 @@
 {
-    "name": "Gladiator's Forum Deluxe (5v5 SHARED)",
+    "name": "Gladiator's Forum Deluxe - Shared",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2017/01/07",
-	"description": "This version supports SHARED teams for some frantic close quarters combat and commander boxing!",
+	"description": "This version supports SHARED teams for some frantic close quarters combat and commander boxing! 2 Shared Teams Supported",
 	"players": [
         2,
         10    ],	

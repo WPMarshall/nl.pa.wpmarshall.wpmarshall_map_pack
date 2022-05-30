@@ -1,5 +1,5 @@
 {
-    "name": "The Able Conglomerate (4P FFA)",
+    "name": "The Able Conglomerate (4P)",
     "creator": "WPMarshall",
     "version": "1",
     "date": "2016/09/17",

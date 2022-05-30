@@ -1,5 +1,5 @@
 {
-    "name": "Cubic Combat (6P FFA)",
+    "name": "Cubic Combat (6P)",
 	"creator": "Guest_01, Published by WPMarshall",
 	"version": "1",
 		"date": "2016/04/14",

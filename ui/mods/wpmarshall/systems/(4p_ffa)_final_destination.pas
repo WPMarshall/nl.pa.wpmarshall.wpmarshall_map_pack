@@ -1,5 +1,5 @@
 {
-    "name": "Final Destination (4P FFA)",
+    "name": "Final Destination (4P)",
 	"creator": "WPMarshall",
     "version": "1.1",
     "date": "2018/11/04",

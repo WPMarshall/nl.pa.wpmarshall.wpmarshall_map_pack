@@ -1,5 +1,5 @@
 {
-    "name": "Realm Battlegrounds (8P FFA, 4v4 Unshared)",
+    "name": "Realm Battlegrounds (4v4 NS, 8P FFA)",
     "creator": "WPMarshall",
     "version": "1.2",
     "date": "2016/07/17",

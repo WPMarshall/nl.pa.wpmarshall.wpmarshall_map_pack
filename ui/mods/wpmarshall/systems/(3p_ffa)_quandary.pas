@@ -1,5 +1,5 @@
 {
-    "name": "Quandary (3P FFA)",
+    "name": "Quandary (3P)",
 	"creator": "WPMarshall",
 	"version": "1.1",
 	"date": "2016/10/05",
