@@ -1,5 +1,5 @@
 {
-    "name": "Ubers Don't Know How to Orbital (1v1)",
+    "name": "Ubers Don't Know How to Orbital",
     "creator": "NikolaMX, Published by WPMarshall",
     "version": "1.2.8",
 	"date": "2020/07/25",

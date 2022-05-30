@@ -1,5 +1,5 @@
 {
-    "name": "DoomBall (5P FFA)",
+    "name": "DoomBall (5P)",
 	"creator": "WPMarshall",
     "version": "1",
     "date": "2016/07/02",

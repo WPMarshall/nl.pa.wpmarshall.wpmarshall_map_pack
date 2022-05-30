@@ -1,5 +1,5 @@
 {
-    "name": "Monsoon (1v1, 2v2 SHARED)",
+    "name": "Monsoon",
 	"creator": "WPMarshall",
     "version": "1",
     "date": "2016/07/02",

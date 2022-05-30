@@ -1,5 +1,5 @@
 {
-    "name": "Oblivarum (1v1)",
+    "name": "Oblivarum",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",

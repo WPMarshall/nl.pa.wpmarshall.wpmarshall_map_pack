@@ -10,7 +10,7 @@
     ],	
     "planets": [
         {
-            "name": "Finn's Resurgence",
+            "name": "Finn's Revenge",
             "mass": 10000,
             "position_x": 50000,
             "position_y": 0,

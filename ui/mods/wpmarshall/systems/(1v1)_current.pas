@@ -1,5 +1,5 @@
 {
-    "name": "Current (1v1)",
+    "name": "Current",
     "creator": "WPMarshall",
     "version": "1.1.1",
 	"date": "2020/08/29",

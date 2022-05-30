@@ -1,5 +1,5 @@
 {
-    "name": "PAF (5P FFA)",
+    "name": "PAF (5P)",
     "description": "5P FFA system. Ablegamers 2020 Qualifier - 1 large planet where all the players spawn on.  After ~7 minutes, 2 new planets will appear followed by 2 asteroids (starting at ~18 minutes)",
     "version": "1.1",
     "creator": "Grand Homie, Published by WPMarshall",

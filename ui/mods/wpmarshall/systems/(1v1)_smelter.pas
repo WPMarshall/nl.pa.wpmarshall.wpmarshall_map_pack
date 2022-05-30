@@ -1,5 +1,5 @@
 {
-    "name": "Smelter (1v1)",
+    "name": "Smelter",
 	"creator": "WPMarshall",
 	"version": "1.5",
 	"date": "2016/10/05",

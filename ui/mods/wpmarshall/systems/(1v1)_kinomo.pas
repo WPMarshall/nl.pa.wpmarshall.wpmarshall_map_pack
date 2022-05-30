@@ -1,9 +1,9 @@
 {
-    "name": "Kinomo (1v1)",
+    "name": "Kinomo",
     "creator": "WPMarshall",
     "version": "1.1",
     "date": "2016/07/02",
-    "description": "(1v1 - 2v2 - 3v3) Kinomo contains many twists and turns between you and your enemy. Expand fast, raid early and lock down chokepoints!",
+    "description": "(1v1 - 2v2) Kinomo contains many twists and turns between you and your enemy. Expand fast, raid early and lock down chokepoints!",
     "players": [
         2,
         6

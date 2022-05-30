@@ -1,5 +1,5 @@
 {
-    "name": "Derisia (1v1)",
+    "name": "Derisia",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",

@@ -1,5 +1,5 @@
 {
-    "name": "Shoreline (1v1, 2v2)",
+    "name": "Shoreline (1v1, 2v2) - Shared",
 	"creator": "WPMarshall",
 	"version": "2",
 	"date": "2020/05/10",

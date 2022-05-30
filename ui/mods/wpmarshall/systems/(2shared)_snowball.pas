@@ -1,5 +1,5 @@
 {
-    "name": "Snowball (2v2 SHARED)",
+    "name": "Snowball - Shared",
 	"creator": "WPMarshall",
 	"version": "1.0",
 	"date": "2020/05/13",

@@ -1,5 +1,5 @@
 {
-    "name": "Conductor (2v2 SHARED)",
+    "name": "Conductor - Shared",
 	"creator": "WPMarshall",
 	"version": "1.0",
 	"date": "2020/05/13",

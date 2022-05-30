@@ -1,5 +1,5 @@
 {
-    "name": "Construction (6P FFA)",
+    "name": "Construction (1v1, 3v3, 6P FFA)",
     "description": "Suitable for 1v1 or up to 6P FFA.",
     "creator": "WPMarshall",
     "version": "1.0.0",

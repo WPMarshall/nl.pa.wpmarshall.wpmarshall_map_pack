@@ -1,5 +1,5 @@
 {
-    "name": "Solitude (1v1)",
+    "name": "Solitude",
     "creator": "WPMarshall",
     "version": "1",
     "date": "2016/07/17",

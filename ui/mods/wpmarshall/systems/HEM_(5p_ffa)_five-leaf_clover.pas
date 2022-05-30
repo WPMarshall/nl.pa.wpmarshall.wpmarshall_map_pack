@@ -1,5 +1,5 @@
 {
-    "name": "Five-Leaf Clover (5P FFA)",
+    "name": "Five-Leaf Clover (5P)",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2017/01/14",

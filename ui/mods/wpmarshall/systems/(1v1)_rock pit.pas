@@ -1,5 +1,5 @@
 {
-    "name": "Rock Pit (1v1)",
+    "name": "Rock Pit",
     "description": "",
     "creator": "WPMarshall",
     "version": "1.0.0",

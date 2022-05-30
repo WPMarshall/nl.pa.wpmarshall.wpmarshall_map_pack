@@ -1,5 +1,9 @@
 {
-    "name": "Diskus (1v1, 2v2, 4v4, 2 SHARED Teams)",	"creator": "WPMarshall", 	"version": "1", "date": "2016/04/28",	"description": "A crazy planet inspired by Geothermal Borehole, teams must manage each of the lanes, contesting and controlling the central disk to capture expansions",
+    "name": "Diskus - Shared",	
+    "creator": "WPMarshall", 	
+    "version": "1", 
+    "date": "2016/04/28",	
+    "description": "A crazy planet inspired by Geothermal Borehole, teams must manage each of the lanes, contesting and controlling the central disk to capture expansions. 2 Shared teams supported",
 	"players": [        4,        10    ],    "planets": [
         {
             "name": "Diskus",

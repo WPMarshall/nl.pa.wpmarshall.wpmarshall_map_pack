@@ -1,5 +1,5 @@
 {
-    "name": "Retcon (4v4) (CAUTION: Don't use Nukes)",
+    "name": "Retcon (4v4) (CAUTION: Don't use Nukes) - Shared",
 	"creator": "WPMarshall",
 	"version": "1.1",
 	"date": "2020/07/25",

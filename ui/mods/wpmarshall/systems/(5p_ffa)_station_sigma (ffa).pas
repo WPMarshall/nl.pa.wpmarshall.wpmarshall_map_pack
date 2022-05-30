@@ -1,5 +1,5 @@
 {
-    "name": "Station Sigma (5P FFA)",
+    "name": "Station Sigma (5P)",
 	"creator": "WPMarshall",
     "version": "2",
     "date": "2016/07/02",

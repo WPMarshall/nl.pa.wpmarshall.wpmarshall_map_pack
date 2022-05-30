@@ -1,5 +1,5 @@
 {
-    "name": "The Shipyards (1v1, 2 SHARED Teams)",
+    "name": "The Shipyards - Shared",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/05/01",

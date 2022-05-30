@@ -1,5 +1,5 @@
 {
-    "name": "Boading (1v1, 2v2 SHARED)",
+    "name": "Boading",
 	"creator": "WPMarshall",
 	"version": "1",
 	"date": "2016/04/14",

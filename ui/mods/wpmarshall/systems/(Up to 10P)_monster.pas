@@ -1,5 +1,5 @@
 {
-    "name": "Monster",
+    "name": "Monster - NS",
     "description": "Use this version of Monster for FFAs and Unshared team games.",
     "creator": "WPMarshall",
     "version": "1.1.0",

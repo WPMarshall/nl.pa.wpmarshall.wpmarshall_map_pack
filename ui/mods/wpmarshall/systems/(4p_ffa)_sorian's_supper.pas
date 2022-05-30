@@ -1,5 +1,5 @@
 {
-    "name": "Sorian's Supper (4P FFA)",
+    "name": "Sorian's Supper (4P)",
     "creator": "WPMarshall",
     "version": "1",
     "date": "2016/09/17",

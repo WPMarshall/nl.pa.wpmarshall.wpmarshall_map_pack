@@ -1,5 +1,5 @@
 {
-    "name": "The Great Scuffle (4P FFA)",
+    "name": "The Great Scuffle (4P)",
 	"creator": "WPMarshall",
 	"version": "1.0", 
 	"date": "2020/03/14",	

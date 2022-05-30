@@ -1,5 +1,5 @@
 {
-    "name": "Verity's Canal (1v1)",
+    "name": "Verity's Canal - Shared",
     "description": "",
     "creator": "Wpmarshall",
     "version": "1.0.0",
