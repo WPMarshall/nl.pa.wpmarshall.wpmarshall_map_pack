@@ -24,7 +24,7 @@ cShareSystems.load_pas("Marsh.1v1", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_ubersdkhto.pas",
-	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
 	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 	
