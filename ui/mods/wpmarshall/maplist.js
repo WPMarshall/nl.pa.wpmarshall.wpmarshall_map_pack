@@ -25,8 +25,6 @@ cShareSystems.load_pas("Marsh.1v1", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_ubersdkhto.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 	
 ]);
 cShareSystems.load_pas("Marsh.2v2", [
@@ -45,8 +43,6 @@ cShareSystems.load_pas("Marsh.2v2", [
 	"coui://ui/mods/wpmarshall/systems/(2shared)_snowball.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 
 ]);
 cShareSystems.load_pas("Marsh.3v3,4v4,5v5", [
@@ -69,8 +65,6 @@ cShareSystems.load_pas("Marsh.3v3,4v4,5v5", [
 	"coui://ui/mods/wpmarshall/systems/(2shared)_snowball.pas",
 	"coui://ui/mods/wpmarshall/systems/(5v5)_station_sigma.pas",
 	"coui://ui/mods/wpmarshall/systems/(5v5)_world_of tomorrow 2.1.0.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 
 ]);
 cShareSystems.load_pas("Marsh.FFA", [
@@ -98,8 +92,6 @@ cShareSystems.load_pas("Marsh.FFA", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_sorian's_supper.pas",
 	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_station_sigma (ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 
 ]);
 cShareSystems.load_pas("HEMISPHERIC", [
@@ -112,10 +104,14 @@ cShareSystems.load_pas("HEMISPHERIC", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(5p_ffa)_five-leaf_clover.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(5p_ffa)_doomball.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2v2)_dark_heart.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
-	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
 	
 ]);
+cShareSystems.load_pas("Mapping", [
+	"coui://ui/mods/wpmarshall/systems/geography_palette.pas",
+	"coui://ui/mods/wpmarshall/systems/geography_palette2.pas",
+
+]);
+
 cShareSystems.load_pas("PA - 1v1 +", [
 	"coui://ui/mods/wpmarshall/systems/wpmarshall-alloy.pas",
 	"coui://ui/mods/wpmarshall/systems/wpmarshall-amadeus'_rift.pas",
