@@ -1,6 +1,6 @@
 {
     "name": "Bulkhead",
-    "description": "Best suited for 1v1s or FFAs | Favors a combination of air and ground force, push along the longitude to your opponent!",
+    "description": "Landmass, Lanes, Metal-Rich | Best suited for 1v1s or FFAs | Favors a combination of air and ground force, push along the longitude to your opponent!",
     "creator": "WPMarshall",
     "version": "1.2.2",
     "players":[2, 10],

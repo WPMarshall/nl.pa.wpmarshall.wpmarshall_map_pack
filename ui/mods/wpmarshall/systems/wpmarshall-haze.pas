@@ -2,6 +2,7 @@
     "name": "Haze",
     "creator": "WPMarshall",
     "version": "1.1.0",
+    "description": "Continent, Lava field, Open Field, Metal Rich",
     "players":[2, 5],
     "planets": [
         {

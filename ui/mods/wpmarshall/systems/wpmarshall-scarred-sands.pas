@@ -1,6 +1,6 @@
 {
     "name": "Scarred Sands",
-    "description": "",
+    "description": "Landmass, Open field, Large Spawn, Multi-planet",
     "creator": "WPMarshall",
     "players":[2, 6],
     "version": "1.0.7",

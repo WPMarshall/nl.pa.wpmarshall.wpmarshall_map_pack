@@ -1,6 +1,6 @@
 {
     "name": "District",
-    "description": "A 2-spawned map. Confusing at first, but all paths lead to your enemy!",
+    "description": "Landmass, Chokepoints, Metal-rich, Multi-spawn | A 2-spawned map. Confusing at first, but all paths lead to your enemy!",
     "creator": "WPMarshall",
     "version": "1.2.0",
     "players":[2, 4],

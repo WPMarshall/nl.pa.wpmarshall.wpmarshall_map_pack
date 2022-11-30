@@ -2,6 +2,7 @@
     "name": "Plenty",
     "creator": "WPMarshall",
     "version": "1.1.0",
+    "description": "Landmass, Open Field, Metal Rich",
     "players":[2, 7],
     "planets": [
         {

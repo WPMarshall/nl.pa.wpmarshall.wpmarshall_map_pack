@@ -1,6 +1,6 @@
 {
     "name": "Ulmost",
-    "description": "Starting planets vary depending on army count! Best suited for 1v1 or FFA.",
+    "description": "Landmass, Open Field, Separate Planet Spawns, Multi-planet, Engines | Starting planets vary depending on army count! Best suited for 1v1 or FFA.",
     "creator": "WPMarshall",
     "version": "1.2.0",
     "players":[2, 6],

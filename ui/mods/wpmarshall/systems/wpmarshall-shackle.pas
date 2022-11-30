@@ -1,6 +1,6 @@
 {
     "name": "Shackle",
-    "description": "Starting planets vary depending on army count! Best played as 1v1 or FFA.",
+    "description": "Landmass, Chokepoints, Lava Fields, Multi-planet, Engines | Starting planets vary depending on army count! Best played as 1v1 or FFA.",
     "creator": "WPMarshall",
     "version": "1.5.3",
     "players":[2, 5],

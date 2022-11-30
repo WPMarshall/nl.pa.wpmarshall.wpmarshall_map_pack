@@ -1,6 +1,6 @@
 {
     "name": "Riddler",
-    "description": "A small frantic 1v1 map. Expand fast, attack hard, and don't forget about the asteroids!",
+    "description": "Landmass, Chokepoints, Metal Rich | A small frantic 1v1 map. Expand fast, attack hard, and don't forget about the asteroids!",
     "creator": "WPMarshall",
     "version": "1.4.0",
     "players":[2, 6],

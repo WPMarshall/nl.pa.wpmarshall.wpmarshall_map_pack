@@ -1,6 +1,6 @@
 {
     "name": "PAX Frontier",
-    "description": "Starting planets vary depending on army count! The PAX system returns, this time designed for 1v1 play. 2 SHARED ARMIES ONLY",
+    "description": "Continent, Naval Element, Open field, Multi-planet, Gas, Engines, Laser | Starting planets vary depending on army count! The PAX system returns, this time designed for 1v1 play. 2 SHARED ARMIES ONLY",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 16],

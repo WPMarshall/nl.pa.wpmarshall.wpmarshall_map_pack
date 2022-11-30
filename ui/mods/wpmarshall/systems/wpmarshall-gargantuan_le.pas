@@ -1,6 +1,6 @@
 {
     "name": "Gargantuan LE",
-    "description": "LADDER EDITION: Will you prioritise the land or the lake?",
+    "description": "Landmass, Open field, Metal Rich, Naval Element | LADDER EDITION: Will you prioritise the land or the lake?",
     "creator": "WPMarshall",
     "version": "1.2.0",
     "players":[2, 6],

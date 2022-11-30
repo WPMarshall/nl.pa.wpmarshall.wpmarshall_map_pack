@@ -1,6 +1,6 @@
 {
     "name": "Fossil",
-    "description": "Best played in team games unless you want a close quarters FFA.",
+    "description": "Landmass, Open field | Best played in team games unless you want a close quarters FFA.",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 7],

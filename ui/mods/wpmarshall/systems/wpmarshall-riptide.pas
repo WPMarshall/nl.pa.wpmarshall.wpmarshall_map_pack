@@ -1,6 +1,6 @@
 {
     "name": "Riptide",
-    "description": "",
+    "description": "Continent, Open Field, Metal Rich, Naval Focus",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 5],

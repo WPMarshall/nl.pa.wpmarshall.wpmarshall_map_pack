@@ -1,6 +1,6 @@
 {
     "name": "Forager",
-    "description": "",
+    "description": "Landmass, Open-field, Dense trees",
     "creator": "WPMarshall",
     "version": "1.0.1",
     "players":[2, 4],

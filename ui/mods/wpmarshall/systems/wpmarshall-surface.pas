@@ -1,6 +1,6 @@
 {
     "name": "Surface",
-    "description": "A very open moon. Scattered metal has nearby defensible locations. Use the craters to your advantage!",
+    "description": "Landmass, Open Field, Metal Rich | A very open moon. Scattered metal has nearby defensible locations. Use the craters to your advantage!",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 8],

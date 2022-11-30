@@ -1,6 +1,6 @@
 {
     "name": "Current",
-    "description": "(1v1 | 2v2 SHARED) Orbital system with naval start also featuring a gas giant!",
+    "description": "Islands, Naval Focus, Open Field, Orbital, Engines, Gas (1v1 | 2v2 SHARED)",
     "creator": "WPMarshall",
     "version": "1.1.1",
     "players":[2, 8],

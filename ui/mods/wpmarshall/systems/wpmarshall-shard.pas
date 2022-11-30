@@ -1,6 +1,7 @@
 {
     "name": "Shard",
     "creator": "WPMarshall",
+    "description": "Continent, Open Field, Naval Focus",
     "version": "1.2.0",
     "players":[2, 7],
     "planets": [

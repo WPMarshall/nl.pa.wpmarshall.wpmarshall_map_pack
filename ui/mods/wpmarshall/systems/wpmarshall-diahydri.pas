@@ -1,6 +1,6 @@
 {
     "name": "Diahydri",
-    "description": "A choice of spawn straight away. Will you risk proximity to your opponent but have immediate access to a safe island, or would you prefer a safe cover to start off?",
+    "description": "Islands, Naval Focus, Multi-spawn, Open-field | A choice of spawn straight away. Will you risk proximity to your opponent but have immediate access to a safe island, or would you prefer a safe cover to start off?",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 6],

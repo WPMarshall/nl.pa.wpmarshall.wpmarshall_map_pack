@@ -1,6 +1,6 @@
 {
     "name": "Undergrowth",
-    "description": "Best suited for team games",
+    "description": "Landmass, Open field, Dense Trees | Best suited for team games",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 4],

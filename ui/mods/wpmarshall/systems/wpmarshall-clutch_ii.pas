@@ -1,6 +1,7 @@
 {
     "name": "Clutch II",
     "creator": "WPMarshall",
+    "description": "Landmass, Naval Elements",
     "version": "1.1.0",
     "players":[2, 8],
     "planets": [

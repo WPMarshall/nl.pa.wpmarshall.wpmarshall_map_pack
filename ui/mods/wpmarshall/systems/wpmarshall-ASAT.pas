@@ -1,6 +1,6 @@
 {
     "name": "A-SAT",
-    "description": "Craters create opportunities and obstacles - not all craters are created equal!",
+    "description": "Landmass, Chokepoints | Craters create opportunities and obstacles - not all craters are created equal!",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players": [
