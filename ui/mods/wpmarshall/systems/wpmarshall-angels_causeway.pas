@@ -1,6 +1,6 @@
 {
     "name": "Angel's Causeway",
-    "description": "",
+    "description": "Landmass, Naval-Focus",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 6],

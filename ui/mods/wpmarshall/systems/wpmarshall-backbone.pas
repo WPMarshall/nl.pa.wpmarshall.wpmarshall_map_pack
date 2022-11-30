@@ -1,6 +1,6 @@
 {
     "name": "Backbone",
-    "description": "Best for 1v1 or FFA | A naval map with many opportunities for amphibious play!",
+    "description": "Islands, Naval Focus, Gas | Best for 1v1 or FFA | Many opportunities for amphibious play!",
     "creator": "WPMarshall",
     "version": "1.3.1",
     "players": [

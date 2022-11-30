@@ -1,6 +1,6 @@
 {
     "name": "Turnpike",
-    "description": "",
+    "description": "Landmass, Metal Rich, Chokepoints, Metal Rich, Multi-spawn",
     "creator": "WPMarshall",
     "version": "1.2.0",
     "planets": [

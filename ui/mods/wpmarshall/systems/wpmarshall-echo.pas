@@ -1,6 +1,6 @@
 {
     "name": "Echo",
-    "description": "Large open arenas full of mex stand between the bases with side routes for extra expansion.",
+    "description": "Landmass, Open-field | Large open arenas full of mex stand between the bases with side routes for extra expansion.",
     "creator": "WPMarshall",
     "version": "1.2.0",
     "players":[2, 8],

@@ -1,6 +1,6 @@
 {
     "name": "Canyon",
-    "description": "A larger volcanic map. Do not underestimate the power of locusts. be sure to defend your expansions!",
+    "description": "Landmass, Open-Field, Lanes | A larger volcanic map. Do not underestimate the power of locusts. be sure to defend your expansions!",
     "creator": "WPMarshall",
     "version": "1.0.1",
     "players":[2, 8],

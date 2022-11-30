@@ -1,6 +1,6 @@
 {
     "name": "EVAK-TWO",
-    "description": "Starting planets vary depending on army count! Suitable for 1v1s and FFAs",
+    "description": "Landmass, Open Field, Multi-planet, Chokepoints, Engines | Starting planets vary depending on army count! Suitable for 1v1s and FFAs",
     "creator": "WPMarshall",
     "version": "1.0.1",
     "players":[2, 5],

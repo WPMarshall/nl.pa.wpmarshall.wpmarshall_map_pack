@@ -1,6 +1,6 @@
 {
     "name": "Hopper",
-    "description": "A second continent? Better get expanding ASAP! Don't underestimate the power of naval support.",
+    "description": "Continents, Chokepoints, Naval Element | A second continent? Better get expanding ASAP! Don't underestimate the power of naval support.",
     "creator": "WPMarshall",
     "version": "1.3.0",
     "players":[2, 8],

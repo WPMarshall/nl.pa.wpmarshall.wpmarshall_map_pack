@@ -1,6 +1,6 @@
 {
     "name": "Snowball",
-    "description": "Suitable for 2 Shared Armies | A large planet with winding paths and chokepoints. Be careful of the naval corridor. Pick your spawn wisely and scout often!",
+    "description": "Landmass, Open Field, Metal Rich, Dense Trees, Large Spawn, Naval Element, Multi-planet | Suitable for 2 Shared Armies | Naval Element | A large planet with winding paths and chokepoints. Be careful of the naval corridor. Pick your spawn wisely and scout often!",
     "creator": "WPMarshall",
     "players":[2, 10],
     "version": "1.0.2",

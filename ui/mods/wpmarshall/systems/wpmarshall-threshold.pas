@@ -1,6 +1,6 @@
 {
     "name": "Threshold",
-    "description": "Lots of winding approaches to your enemy on this map where the symmetry is just slightly off. Don't get lost!",
+    "description": "Landmass, Open Field, Metal Rich | Lots of winding approaches to your enemy on this map where the symmetry is just slightly off. Don't get lost!",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 8],

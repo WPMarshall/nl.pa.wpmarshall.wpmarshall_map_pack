@@ -2,11 +2,12 @@
     "name": "Amadeus' Rift",
     "description": "",
     "creator": "WPMarshall",
-    "version": "1.0.1",
+    "version": "1.0.2",
+   	"description": "Landmass, Open-field",
     "players":[2, 6],
     "planets": [
         {
-            "name": "Amadeu' Rift",
+            "name": "Amadeus' Rift",
             "mass": 5000,
             "position_x": 25000,
             "position_y": 0,

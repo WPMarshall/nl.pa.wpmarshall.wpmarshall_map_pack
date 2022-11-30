@@ -1,6 +1,6 @@
 {
     "name": "Ashworth's Garden",
-    "description": "",
+    "description": "Landmass, Naval Elements",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 6],

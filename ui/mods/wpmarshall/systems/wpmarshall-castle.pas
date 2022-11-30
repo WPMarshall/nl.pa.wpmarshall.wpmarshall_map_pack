@@ -1,6 +1,6 @@
 {
     "name": "Castle",
-    "description": "",
+    "description": "Landmass, Open-Field, Metal-rich",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 6],

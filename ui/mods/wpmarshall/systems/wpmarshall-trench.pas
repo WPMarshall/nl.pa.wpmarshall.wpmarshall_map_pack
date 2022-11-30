@@ -1,6 +1,6 @@
 {
     "name": "Trench",
-    "description": "Starting planets vary depending on army count!",
+    "description": "Landmass, Chokepoints, Metal rich, Multi-planet, Engines | Starting planets vary depending on army count!",
     "creator": "WPMarshall",
     "version": "1.0.6",
     "players":[2, 6],

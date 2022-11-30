@@ -4,7 +4,7 @@
 	"version": "1.1.0", 
 	"date": "2020/01/22",	
     "players":[2, 6],
-	"description": "Suitable for 2 shared teams | Will you risk a start closer to a particular part of the map, or play it safe at the poles?",
+	"description": "Landmass, Open-field, Large Spawn | Suitable for 2 shared teams | Will you risk a start closer to a particular part of the map, or play it safe at the poles?",
     "planets": [
         {
             "name": "Alloy",

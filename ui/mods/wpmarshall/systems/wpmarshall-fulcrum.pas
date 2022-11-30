@@ -1,6 +1,6 @@
 {
     "name": "Fulcrum",
-    "description": "Starting planets vary depending on army count! 1v1 where you spawn on separate planets. Choose your landing point wisely! Larger games will start everyone on the central planet.",
+    "description": "Landmass, Open field, Separate Planet Spawns, Engines | Starting planets vary depending on army count! 1v1 where you spawn on separate planets. Choose your landing point wisely! Larger games will start everyone on the central planet.",
     "creator": "WPMarshall",
     "version": "1.2.3",
     "players":[2, 10],

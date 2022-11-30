@@ -1,6 +1,6 @@
 {
     "name": "Canals",
-    "description": "Fight on the short route between bases, use the trees, but don't forget the threat of naval from the canals!",
+    "description": "Landmass, Chokepoints, Naval Elements, Dense Trees | Fight on the short route between bases, use the trees, but don't forget the threat of naval from the canals!",
     "creator": "WPMarshall",
     "version": "1.1.1",
     "players":[2, 6],

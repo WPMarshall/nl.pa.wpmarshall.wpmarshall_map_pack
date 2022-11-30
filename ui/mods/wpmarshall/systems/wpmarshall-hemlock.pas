@@ -1,6 +1,6 @@
 {
     "name": "Hemlock",
-    "description": "Starting planets vary depending on army count! Best for 1v1 or FFA games",
+    "description": "Landmass, Chokepoints, Open field, Multi-planet | Starting planets vary depending on army count! Best for 1v1 or FFA games",
     "creator": "WPMarshall",
     "version": "1.0.3",
     "players":[2, 7],

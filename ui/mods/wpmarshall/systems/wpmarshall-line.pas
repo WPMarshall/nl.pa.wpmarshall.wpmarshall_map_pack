@@ -1,6 +1,6 @@
 {
     "name": "Line",
-    "description": "Suitable for shared teams: Choose your spawn wisely and exploit any spawn differences. Expect rapid skirmishes.",
+    "description": "Landmass, Open field, Lanes, Large Spawn | Suitable for shared teams: Choose your spawn wisely and exploit any spawn differences. Expect rapid skirmishes.",
     "creator": "WPMarshall",
     "version": "1.1.0",
     "players":[2, 10],

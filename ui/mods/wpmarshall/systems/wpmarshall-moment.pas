@@ -1,6 +1,6 @@
 {
     "name": "Moment",
-    "description": "Make sure you don't lose the naval war while you fight over resources on land!",
+    "description": "Landmass, Open field, Chokepoint, Naval Element | Make sure you don't lose the naval war while you fight over resources on land!",
     "creator": "WPMarshall",
     "version": "1.2.0",
     "players":[2, 6],
