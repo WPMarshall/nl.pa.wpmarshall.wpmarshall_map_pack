@@ -24,6 +24,7 @@ cShareSystems.load_pas("Marsh.1v1", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_ubersdkhto.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal.pas",
 	
 ]);
@@ -42,11 +43,13 @@ cShareSystems.load_pas("Marsh.2v2", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_shoreline.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_snowball.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal.pas",
 
 ]);
 cShareSystems.load_pas("Marsh.3v3,4v4,5v5", [
 
+	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(4v4)_corvana_chasm.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
@@ -72,6 +75,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 
 	"coui://ui/mods/wpmarshall/systems/(32p_ffa)_wpmarshall-ka_boom_battle.pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_the_able conglomerate.pas",
+	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
 	"coui://ui/mods/wpmarshall/systems/(15p_ffa)_cosmic_chaos (15 players max).pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_cubic_combat.pas",
@@ -94,6 +98,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_sorian's_supper.pas",
 	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_station_sigma (ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
 
 ]);
 cShareSystems.load_pas("HEMISPHERIC", [
