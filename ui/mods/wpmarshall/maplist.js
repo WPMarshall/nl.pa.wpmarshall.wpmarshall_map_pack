@@ -49,6 +49,7 @@ cShareSystems.load_pas("Marsh.2v2", [
 ]);
 cShareSystems.load_pas("Marsh.3v3,4v4,5v5", [
 
+	"coui://ui/mods/wpmarshall/systems/(3v3)_3_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(4v4)_corvana_chasm.pas",
@@ -75,6 +76,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 
 	"coui://ui/mods/wpmarshall/systems/(32p_ffa)_wpmarshall-ka_boom_battle.pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_the_able conglomerate.pas",
+	"coui://ui/mods/wpmarshall/systems/(3v3)_3_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
 	"coui://ui/mods/wpmarshall/systems/(15p_ffa)_cosmic_chaos (15 players max).pas",
