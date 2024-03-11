@@ -15,13 +15,14 @@ cShareSystems.load_pas("Marsh.1v1", [
 	"coui://ui/mods/wpmarshall/systems/(1v1)_moore.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_oblivarum.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_pressure_cooker.pas",
-	"coui://ui/mods/wpmarshall/systems/(1v1)_rock pit.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_rock_pit.pas",
 	"coui://ui/mods/wpmarshall/systems/(4v4)_seton's_clutch.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_shipyards.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_shoreline.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_smelter.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_solitude.pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
+	"coui://ui/mods/wpmarshall/systems/(1v1)_tectonic_tantrum.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_ubersdkhto.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
@@ -43,6 +44,7 @@ cShareSystems.load_pas("Marsh.2v2", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_shoreline.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_snowball.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2shared)_thief's_pass.pas",
+	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_toyless_pram.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_verity's_canal.pas",
 
@@ -100,6 +102,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_sorian's_supper.pas",
 	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_station_sigma (ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
+	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_toyless_pram.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
 
 ]);
