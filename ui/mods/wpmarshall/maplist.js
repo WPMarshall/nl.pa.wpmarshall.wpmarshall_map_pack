@@ -78,6 +78,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 
 	"coui://ui/mods/wpmarshall/systems/(32p_ffa)_wpmarshall-ka_boom_battle.pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_the_able conglomerate.pas",
+	"coui://ui/mods/wpmarshall/systems/(6p_ffa)battlegrounds_of the ancients.pas",
 	"coui://ui/mods/wpmarshall/systems/(3v3)_3_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
@@ -103,6 +104,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 	"coui://ui/mods/wpmarshall/systems/(5p_ffa)_station_sigma (ffa).pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_tandem.pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_toyless_pram.pas",
+	"coui://ui/mods/wpmarshall/systems/(6p_ffa)the_twins.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_vanilla_plains.pas",
 
 ]);
