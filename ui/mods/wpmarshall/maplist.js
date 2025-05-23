@@ -1,6 +1,7 @@
 cShareSystems.load_pas("Marsh.1v1", [
 
 	"coui://ui/mods/wpmarshall/systems/(1v1)_abandoned_facility.pas",
+	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_bloodshot.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_boading.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cauldron.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cobble_pass.pas",
@@ -8,6 +9,7 @@ cShareSystems.load_pas("Marsh.1v1", [
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_current.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_derisia.pas",
+	"coui://ui/mods/wpmarshall/systems/(2v2)_the_exchange.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(1v1)_finn's_revenge.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2)_fields_of isis.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_hot_spots.pas",
@@ -35,12 +37,14 @@ cShareSystems.load_pas("Marsh.1v1", [
 ]);
 cShareSystems.load_pas("Marsh.2v2", [
 
+	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_bloodshot.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_calamity_falls.pas",
 	"coui://ui/mods/wpmarshall/systems/(1v1)_cobble_pass.pas",
 	"coui://ui/mods/wpmarshall/systems/(2v2)_conductor.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2v2)_dark_heart.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_diskus_(teams).pas",
+	"coui://ui/mods/wpmarshall/systems/(2v2)_the_exchange.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2)_fields_of isis.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_gladiator's forum deluxe.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_outlier.pas",
@@ -62,6 +66,7 @@ cShareSystems.load_pas("Marsh.3v3,4v4,5v5", [
 	"coui://ui/mods/wpmarshall/systems/HEM_(4v4)_corvana_chasm.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_diskus_(teams).pas",
+	"coui://ui/mods/wpmarshall/systems/(2v2)_the_exchange.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(2v2)_fields_of isis.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_galactic_gyro.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_gladiator's forum deluxe.pas",
@@ -84,6 +89,7 @@ cShareSystems.load_pas("Marsh.FFA", [
 	"coui://ui/mods/wpmarshall/systems/(32p_ffa)_wpmarshall-ka_boom_battle.pas",
 	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_the_able conglomerate.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)battlegrounds_of the ancients.pas",
+	"coui://ui/mods/wpmarshall/systems/(4p_ffa)_bloodshot.pas",
 	"coui://ui/mods/wpmarshall/systems/(3v3)_3_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
