@@ -62,6 +62,7 @@ cShareSystems.load_pas("Marsh.3v3,4v4,5v5", [
 
 	"coui://ui/mods/wpmarshall/systems/(3v3)_3_bridges.pas",
 	"coui://ui/mods/wpmarshall/systems/(6v6)_bridges.pas",
+	"coui://ui/mods/wpmarshall/systems/(5v5)_chevron.pas",
 	"coui://ui/mods/wpmarshall/systems/(6p_ffa)_construction.pas",
 	"coui://ui/mods/wpmarshall/systems/HEM_(4v4)_corvana_chasm.pas",
 	"coui://ui/mods/wpmarshall/systems/(2shared)_cratered.pas",
